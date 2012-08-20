@@ -1,0 +1,6 @@
+git config --global http.proxy http://127.0.0.1:8085
+
+git push origin master
+git remote add origin https://github.com/greenyonder/fcean.git
+
+git push origin master

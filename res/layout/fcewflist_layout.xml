@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" 
+     android:background="#FFFFFF"
+    >
+    
+       <!--  Include Bar -->
+        <include layout="@layout/fceactionbarback"/>
+    
+
+    
+    <LinearLayout 
+     android:id="@+id/linearLayout2"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="#FFFFFF"
+    android:orientation="vertical"
+ 
+    >
+          <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+     
+        android:textColor="#000000"
+     android:text="@string/listinstr"
+    
+         />
+    	     
+	
+          
+     
+          <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+     
+        android:textColor="#000000"
+     android:text="test2"
+    
+         />
+          
+             <TextView
+        android:id="@+id/textViewResult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+     
+        android:textColor="#000000"
+     android:text=""
+    
+         />
+          
+    </LinearLayout>
+      <Button
+		        android:id="@+id/buttonv"
+		        android:layout_width="150dp"
+		        android:layout_height="40dp"
+		     
+		        android:textStyle="bold"
+		      android:text="@string/btncheck"
+		        android:background="@drawable/selectorbtnv"
+		          android:clickable="true" android:onClick="onClick"
+		         />
+ <View
+		      android:id="@+id/view"
+			android:layout_height="1dp"		
+			 android:layout_width="1dp"
+			         android:background="#FFFFFF" 
+			   
+			         />
+
+    <!--  Include Footer -->
+        <include layout="@layout/fcefooter"/>
+
+</LinearLayout>

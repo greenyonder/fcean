@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<falcofinder.android.fce.DashboardLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_weight="1"
+    android:background="#f8f9fe" >
+
+ 
+    <!--  Messages Button -->
+    <Button
+        android:id="@+id/btn1"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/selectorfceicon1"
+        android:text="Multiple Choice"   />
+ 
+ 
+    <Button
+        android:id="@+id/btn2"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/selectorfceicon2"
+        android:text="Word Formation"  />
+ 
+  
+    <Button
+        android:id="@+id/btn3"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/selectorfceicon3"
+        android:text="Word Formation List" />
+  
+    <Button
+        android:id="@+id/btn4"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/selectorfceicon5"
+        android:text="Phrasal Verbs List" />
+    
+    <Button
+        android:id="@+id/btn5"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/selectorfceicon4"
+        android:text="Errors" />
+
+ 
+  
+    <Button
+        android:id="@+id/btn6"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/selectorfceicon6"
+        android:text="Exit" />
+    
+   
+    
+</falcofinder.android.fce.DashboardLayout>

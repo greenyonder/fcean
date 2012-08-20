@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+   android:layout_height="wrap_content"
+   android:gravity="left"
+   android:layout_width="wrap_content"
+  android:orientation="vertical"
+  android:background="#FFFFFF"
+  >
+
+  
+   
+   
+        <TextView android:id="@+id/txtquestion"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:gravity="left"
+     android:textColor="#000000"
+           android:textStyle="bold"
+      />
+ 
+        
+        
+         
+          <TextView android:id="@+id/txtyouranswer"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:gravity="left"
+      android:textColor="#000000"
+      android:textStyle="bold"
+  
+      />
+          
+           <TextView android:id="@+id/rightanswer"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:gravity="left"
+      android:textColor="#000000"
+          android:textStyle="bold"
+      />
+           
+            <View
+		      android:id="@+id/view"
+			android:layout_height="1dp"		
+			 android:layout_width="1dp"
+			         android:background="#FFFFFF" 
+			   
+			         />
+</LinearLayout>
+

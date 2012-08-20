@@ -1,0 +1,1268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, FceActivity!</string>
+    <string name="app_name">Fce trainer</string>
+    <string name="listinstr">Think of any words you can form from the word given. Then touch ok to see if you got all words proposed or even more.\n</string>
+    
+    <string name="listpvstr">Think of a sentence with the phrasal verb given. Then touch ok and compare with the example.\n</string>
+    
+    
+    <string name="btncheck">Check the answer</string>
+    <string name="btncontinue">Continue</string>
+    <string name="reset">Reset errors</string>
+    <string name="keys">FCE First Certificate of English study learn english tests exercises upper intermediate level b2 education exam  school</string>
+    
+    
+    <string-array name="wflist">
+<item>ABANDON;abandonment</item>
+<item>ADVANTAGE;disadvantage;advantageous;disadvantageous</item>
+<item>ability;enable;disable;disabled;disability</item>
+<item>ACCURATE;inaccurate;accuracy;inaccuracy</item>
+<item>ACHIEVE;achievable;achiever;achievement;overachiever</item>
+<item>ADVISE;adviser;advisor;advisement</item>
+<item>absence;absentee;advisable;inadvisable;advisedly;advisory</item>
+<item>absorbent;absorbency;absorbent;absorbing;absorption</item>
+<item>ACQUAINT;acquaintance;acquainted;unacquainted</item>
+<item>ACTIVE;inactive;actively;activate;activity;activist;activism;activator;activation</item>
+<item>AFFECT;affection;affectionate;affectionately</item>
+<item>abstinent;abstinence;abstention;abstainer</item>
+<item>AFFORD;affordable;unaffordable</item>
+<item>absurdly;absurdity</item>
+<item>ADAPT;adaptation;adapter;adaptor;adaptable;adaptability</item>
+<item>abuser;abusive;abusing;abused</item>
+<item>ADD;addition;additional;additionally;additive;addable;add-on</item>
+<item>ADDICT;addiction;addicted;addictive</item>
+<item>academic;academically;academia</item>
+<item>AGE;aging;ageing;age-old;ageless</item>
+<item>acceptable;acceptably;unacceptable;unacceptably;acceptability;acceptance;aged;ageism</item>
+<item>ADEQUATE;inadequate;adequacy;inadequacy</item>
+<item>AGONY;agonize;agonizing;agonizingly</item>
+<item>access;accessible;inaccessible;accessibility;accession</item>
+<item>ADMIRE;admiration;admiring;admiringly;admirer;admirable;admirably</item>
+<item>AGREE;agreement;agreeable;agreeably;disagree;disagreement</item>
+<item>ALARM;alarming;alarmingly;alarmist</item>
+<item>account;accountable;accountability;accountancy;accounting;accountant</item>
+<item>ADMIT;admission;admittance;admissible;inadmissible;admittedly;readmit</item>
+<item>ALLEGE;allegation;alleged;allegedly</item>
+<item>AMAZE;amazement;amazing;amazingly;amusement;amusing</item>
+<item>APPREHEND;apprehensive;apprehension</item>
+<item>AUTHOR;authorize;unauthorized;authority;authorization;authoritative</item>
+<item>ANALYZE;analyst;analysis;analytical;analytically</item>
+<item>APPROACH;approachable;unapproachable</item>
+<item>APPROVE;approval;disapproval;approving;disapproving;disapprovingly</item>
+<item>AVAILABLE;availability;unavailable;unavailability</item>
+<item>anecdot;anecdotal;anecdotally</item>
+<item>ARGUE;arguable;arguably;argument;argumentation;argumentative</item>
+<item>AVOID;avoidance;avoidable;unavoidable;unavoidably</item>
+<item>animation;inanimate</item>
+<item>ANNOY;annoyance;annoyed;annoying;annoyingly</item>
+<item>ARSON;arsonist</item>
+<item>ART;artist;artistic;artistically;artistry;artful;artfully</item>
+<item>answer;answerable;unanswerable;answering</item>
+<item>antiquity;antiquated</item>
+<item>ANXIOUS;anxiously;anxiety</item>
+<item>ANY;anybody;anyone;anyway;anywhere;anything</item>
+<item>anyhow;(=;anyway);anyplace;(=;anywhere);artiste;artless;artlessly</item>
+<item>ASSESS;assessment;assessor</item>
+<item>ASSIST;assistant;assistance</item>
+<item>ATTACH;attachment;attached</item>
+<item>apology;apologetic;apologetically;ATTEND;attendance;attendant;inattention;attentive</item>
+<item>application;applicant;applicable;applied;inattentive</item>
+<item>ATTRACT;attraction</item>
+<item>attractiveness;attractively</item>
+<item>appreciation;appreciable;appreciably;appreciative;appreciatively;unattractive;unattractively</item>
+<item>AUTHENTIC;authenticity;authentically;authenticate;inauthentic</item>
+<item>BOY;boyish;boyishly;boyhood</item>
+<item>BRIBE;bribery;bribable;briber;unbribable</item>
+<item>beAT;beatable;unbeatable;beating;beater</item>
+<item>BREAK;breakage;breakable;unbreakable;outbreak;breakneck;breakaway;breakdown;breakthrough</item>
+<item>BEAUTY;beautiful;beautifully;beautify;beautician</item>
+<item>BEHAVE;misbehave;behavior;misbehavior;behavioral</item>
+<item>BRIGHT;brightness;brighten;brightly</item>
+<item>belief;disbelief;believe;disbelieve;believer;non-believer;believable;unbelievable;unbelievably</item>
+<item>BROAD;broaden;breadth;broadminded;broadside;broadcast;broadcaster</item>
+<item>BROTHER;brotherhood;brotherly;brother-in-law;brethren</item>
+<item>benefit;beneficial;beneficiary</item>
+<item>birth;birthrate;birthday</item>
+<item>BRUTAL;brutally;brutality;brutalize;brutalization;brute;brutish</item>
+<item>block;blockage;blocked;unblock</item>
+<item>BURGLE;burglary;burglarize</item>
+<item>bleed;bloodless;bloody;bleeding;burglar</item>
+<item>BORE;bored;boring;boredom</item>
+<item>BOUND;bounds;boundary;boundless;boundlessly</item>
+<item>CALCULATE;miscalculate;calculation;miscalculation;calculator;incalculable</item>
+<item>CITE;citation;recite;recital;recitation;recitative;above-cited</item>
+<item>COAST;coastal</item>
+<item>COHERE;coherent;coherence;incoherent;incoherence;cohesive;cohesion</item>
+<item>capitalize;capitalist;capitalization</item>
+<item>CIVIL;uncivil;civility;civilian;civilize;civilized;uncivilized;civilization</item>
+<item>careless;carelessly;careful;carefully;carefree;caretaker;careworn;caring;caringly</item>
+<item>CLAIM;claimant;acclaimed;disclaim;disclaimer;declaim;declamation;reclaim</item>
+<item>COLLECT;collection;collector;collectible;collective;collectivism</item>
+<item>COLOR;colorful;colorfully;coloring;colorless;discolored;discoloration</item>
+<item>categorize;categorization</item>
+<item>caution;cautious;cautiously;precaution</item>
+<item>CLASS;classify;classified;classifiable;classification;declassify;declassification;outclass</item>
+<item>COME;upcoming;income;outcome;newcomer</item>
+<item>celebrate;celebration;celebratory;celebrated;celebrant;celebrity</item>
+<item>CLASSIC;classical;classically;classicist;neoclassicism</item>
+<item>COMFORT;discomfort;comfortable;uncomfortable;comforting;comfortably</item>
+<item>ceremonial;ceremonially;ceremonious;ceremoniously;unceremonious;unceremoniously</item>
+<item>CLEAN;unclean;cleanness;cleanly;cleanliness;cleanse;cleanser;clean-cut</item>
+<item>COMPARE;comparison;comparable;comparably;comparative;comparability;incomparable;incomparably</item>
+<item>character;characterless;characterize;characterization;characteristic;characteristically</item>
+<item>CLEAR;unclear;clearly;clearance;clarity;clarify;clarification</item>
+<item>COMPETE;competition</item>
+<item>charged;recharge;rechargeable;chargeable;competitor;competitive;uncompetitive</item>
+<item>COMPETENCE;competent;competently;incompetence;incompetent;incompetently</item>
+<item>childhood;childish;childishly;childishness;childless;childlessness;childlike;clear-cut</item>
+<item>CLOSE;closely;closeness;closure;disclose;disclosure;enclose</item>
+<item>COMPLAIN;complaint;complainer</item>
+<item>COMPLETE;completely;incompletely;incomplete;completeness;incompleteness;completion</item>
+<item>CONTINUE;continuity;continuous;continual;continuant;continuer;discontinue</item>
+<item>cover;cover-up;coverage;covering;undercover;uncover;uncovered</item>
+<item>COWARD;cowardly;cowardice</item>
+<item>composer;composition;composure;composite;decompose;decomposition</item>
+<item>CONTRIBUTE;contribution;contributor</item>
+<item>CONVERT;conversion;convertible</item>
+<item>CREATE;creation;creator;creature;creativity;creative;creatively;uncreative;uncreatively</item>
+<item>comprehensive;comprehension;comprehensibility;incomprehensible</item>
+<item>CONVINCE;conviction;convincing;convinced;convincingly;unconvincing;unconvincingly</item>
+<item>concern;unconcerned</item>
+<item>CREDIT;credible;incredible;credibility;creditor;incredibly;creditable;discredit;discreditable</item>
+<item>conclude;conclusion;conclusive;conclusively;inconclusive;inconclusively</item>
+<item>CORRECT;incorrect;correctly;incorrectly;correction;correctional;hypercorrect</item>
+<item>confuse;confusion;confusing</item>
+<item>CRIME;criminologist;criminology;criminal;criminally;criminalize</item>
+<item>connect;disconnect;connection;connector;connective</item>
+<item>CORRESPOND;correspondent;correspondence;corresponding</item>
+<item>COST;costly;costless</item>
+<item>CRITICISE;critic;critical;critically;criticism</item>
+<item>conscious;consciously;unconsciously;consciousness;unconsciousness;subconscious;subconsciously</item>
+<item>COURAGE;courageous;courageously;discourage;discouraging;discouragement;encouragement;encouragingly</item>
+<item>CURE;curative;curer;curable;encourage;incurable;encouraging;curability</item>
+<item>consideration;considerable;considerably;considerate;inconsiderate</item>
+<item>COURT;COURTEOUS;COURTEOUSLY;COURTESANS;COURTESY	COURTIERDISCOURTESY</item>
+<item>CONSISTENT;consistency;inconsistency;;inconsistent;COURTSHIP;DISCOURTEOUS</item>
+<item>CONTEMPT;;contemptible;contemptuous;contemptuousness;contemptibly;contemptibility;contemptuous;contemptuously</item>
+<item>DAY;daily;midday;daytime;daybreak;daydream</item>
+<item>DISPUTE;indisputable</item>
+<item>DISTINCT;distinctly;distinction;distinctive;distinctiveness</item>
+<item>death;deadly;deaden;deathly</item>
+<item>DESERVE;deserving;deservedly</item>
+<item>DISTINGUISH;distinguishable;indistinguishable;distinguishing</item>
+<item>debt;indebted;debtor</item>
+<item>DESIRE;desirable;undesirable</item>
+<item>decide;decidedly;decision;indecision;decisively;indecisively;undecided</item>
+<item>DESPAIR;desperation;desperate;desperately</item>
+<item>DETECT;detection;detective;detector;detectable</item>
+<item>DISTURB;disturbance;disturbing;disturbed;undisturbed</item>
+<item>DIVIDE;division;divisible;dividable</item>
+<item>defense;defenseless;defender;defensive;defensively;indefensible;defendant</item>
+<item>DEVELOP;development;developmental;developmentally;developer;developing;underdeveloped</item>
+<item>DOMESTIC;domesticity;domesticate</item>
+<item>DOMINATE;dominance;dominant;dominion</item>
+<item>deficiently;deficiency</item>
+<item>DEVIL;devilish;bedeviled;daredevildevilry</item>
+<item>DOUBT;doubt;doubtless;doubtlessly;doubtful;undoubtedly</item>
+<item>definition;defined;undefined;definable;definability;definite;definitive;definitively;indefinite</item>
+<item>DIFFER;difference;indifference;different;differently;differential</item>
+<item>DRAMA;dramatize;dramatization;dramatist;dramatic;dramatically</item>
+<item>delivery;deliverer;deliverable;undeliverable;deliverance;undelivered</item>
+<item>differentiation;indifferent;differentiate</item>
+<item>DIRECT;direction;directive;directly;directness;director;directorship;directory;indirect</item>
+<item>DREAM;dreamer;dreamy;dreamily;dreamless;dreamlike;daydream;daydreamer;dreamboat</item>
+<item>denial;deniable;undeniable;undeniably</item>
+<item>DEPART;departure</item>
+<item>DISASTER;disastrous</item>
+<item>DEPEND;depend;dependence;independence;dependent;independent;independently;dependability;dependant</item>
+<item>EARTH;earthling;earthquake;earthbound;earthly;earthy</item>
+<item>envy;enviously;envious</item>
+<item>ENTER;entrance;entry</item>
+<item>EQUAL;equality;inequality;equalizer;unequal;unequally</item>
+<item>EXPERT;expertise;expertly</item>
+<item>EXPLODE;explosive;explosion</item>
+<item>economist;economize;economics;economical;economically;uneconomical;uneconomically</item>
+<item>EVOKE;evocative;evocation;evocable</item>
+<item>EXTEND;extent;extension;extensive;extensively;extendable</item>
+<item>effective;effectively;effectiveness;ineffective;ineffectively;ineffectiveness</item>
+<item>EXACT;inexact;exactly;exacting;exactness</item>
+<item>EXTREME;extremely;extremist;extremism;extremity;extremeness</item>
+<item>educate;educator;educated;uneducated;educational;educationally</item>
+<item>EXAMPLE;exemplify;exemplification;exemplary</item>
+<item>EXCEPT;exception;exceptional;exceptionally</item>
+<item>electrical;electrician;electricity</item>
+<item>EXCITE;excitement</item>
+<item>electrify;electrification</item>
+<item>EXCLUDE;exclusive;exclusively</item>
+<item>employer;employee;employment;unemployment;employed;unemployed;employable</item>
+<item>EXHAUST;inexhaustible</item>
+<item>EXIST;existing;existence;existent;coexist;coexistence;non-existence;non-existent;existential</item>
+<item>endurance;enduring;enduringly;durable;durability</item>
+<item>engagement;engaging;engaged;disengage</item>
+<item>EXPAND;expansive;expansion;expandable;expansionism;expansionist</item>
+<item>environment;environmental;environmentally;environmentalist;environmentalism</item>
+<item>EXPECT;expectation;expectancy;expectant;unexpected;unexpectedly</item>
+<item>FACE;facial;deface;facelift;face-off;faceless;facecloth</item>
+<item>FIT;unfit;fitness;fitting;fittingly</item>
+<item>FLAME;flammable;inflammable;nonflammable</item>
+<item>frost;defrost;frostily;frostiness;frosty</item>
+<item>FRUIT;fruitful;fruitless;fruitfully;fruitarian</item>
+<item>FORCE;forceful;forcefully;reinforce;reinforcement</item>
+<item>fail;failure;failed;unfailing;unfailingly</item>
+<item>FORESEE;foreseeable;unforeseeable</item>
+<item>family;familiarity;familiarize;familiarly;unfamiliar;unfamiliarity;familiarization</item>
+<item>FANTASY;fantasize;fantastic;fantastically</item>
+<item>FOREST;deforest;deforestation</item>
+<item>FORM;deform;deformity;FORMAL;formally;informal;informally;formality;formalize</item>
+<item>fashionable;unfashionable;unfashionably</item>
+<item>fatty;fatten;fattening;fatness</item>
+<item>FOUND;foundation;founder;unfounded</item>
+<item>fatal;fatally;fatality;fatalism;fatalistic</item>
+<item>FAVOR;favorable;favorably;unfavorable;unfavorably</item>
+<item>FEAR;fearful;fearless;fearsome</item>
+<item>FEVER;feverish;feverishly</item>
+<item>FRAME;frameless;framework;framed</item>
+<item>FREE;freedom;freeway;freely;freefall</item>
+<item>FRESH;freshly;refresh</item>
+<item>FRIEND;friendship;friendly;unfriendly;friendliness;unfriendliness;befriend</item>
+<item>FINAL;finally;finalize</item>
+<item>GIVE;misgiving;giveaway</item>
+<item>GRACE;graceful;gracefully;graceless;disgrace;disgraceful;disgracefully</item>
+<item>GRAMMAR;grammarian;grammatical;grammatically;ungrammatical;ungrammatically</item>
+<item>GREEN;greenery;greenness;greenish</item>
+<item>GROW;growth;outgrow</item>
+<item>GUIDE;guidance;guideline;misguide</item>
+<item>HAND;offhand;offhandedly;offhandedness;underhand;handily</item>
+<item>HESITATE;hesitation;hesitant</item>
+<item>HOLD;holder;behold;beholder;stronghold;withhold</item>
+<item>happy;unhappy;happiness;happily;unhappily;hippy-happy</item>
+<item>HOME;homeland;homeless;homelessness;homely;homesick;homespun;homestead;homeward</item>
+<item>harm;harmful;harmless;harmfully;harmlessly;unharmed</item>
+<item>hazard;hazardous;hazardously</item>
+<item>HOSTILE;hostility;hostilely</item>
+<item>head;headache;headdress;header;headgear;headiness;heading;headlamp;headlight</item>
+<item>HOUR;hourly;hourglass</item>
+<item>HURRY;hurried;unhurried;hurriedly;unhurriedly</item>
+<item>HEAR;hearable;hearer;hearsay;overhear</item>
+<item>HEART;dishearten;disheartened;heartache;heartbeat;heartbreak;heartburn;heartland;hearten</item>
+<item>IGNORE;ignorance;ignorant</item>
+<item>reinvest;reinvestment</item>
+<item>imagine;imagination;imaginative;unimaginative;unimaginable</item>
+<item>INVOLVE;uninvolved;involvement;involving</item>
+<item>IRRITATE;irritating</item>
+<item>IMPRESS;impression;impressive;impressively;unimpressive;unimpressively;impressionist;impressionistic</item>
+<item>INDUSTRY;industrial;industrially;industrialize;industrialization;industrious;industriously</item>
+<item>INFORM;informative;information;misinform;misinformed;informer</item>
+<item>INHABIT;inhabited;uninhabited</item>
+<item>INJURE;injury;injured;injurious;uninjured</item>
+<item>INTEND;intention;intentional;intentionally;unintentional;unintentionally</item>
+<item>INTEREST;interesting;interestingly;uninteresting;interested;disinterested;uninterested</item>
+<item>INVENT;invention;inventor;inventive</item>
+<item>INVEST;investor;investment</item>
+<item>JOY;joyful;joyfully;enjoy;enjoyable;enjoyment;joyous;joyously;overjoyed</item>
+<item>JUDGE;judgement;judgmental;judicious;misjudge;misjudgment</item>
+<item>JUST;unjust;justice;injustice;justify;justifiable;unjustifiable;justification;unjustified</item>
+<item>KIDNAP;kidnapper;kidnapping</item>
+<item>KNOW;knowledge;knowledgeable;knowingly;unknowingly;acknowledge;acknowledgement;know-how;unknown</item>
+<item>LABOR;laborious;laboriously;laborer;labored;labor-saving</item>
+<item>LAST;lasting;outlast;long-lasting</item>
+<item>LIFE;afterlife;lifeblood;lifeless;lifelike;lifeline;lifelong;lifesaver;lifespan</item>
+<item>LIKE;alike;dislike;liking;likeable;liken;likeness;likewise</item>
+<item>LINE;online;lineage;linesman;liner;linear;non-linear</item>
+<item>LITERACY;literate;illiterate;illiteracy</item>
+<item>LONG;length;lengthy;longevity;lengthen;prolong;longitude</item>
+<item>LOSE;loss;loser;lost;lossless;(compression)</item>
+<item>MAJOR;majority</item>
+<item>MANAGE;mismanage;mismanagement;manager;management;managerial;managing</item>
+<item>MOOD;moody;moodiness</item>
+<item>MORAL;morally;moralist;moralistic;moralize;morality;amoral;amorality;immoral</item>
+<item>maniac;maniacal;maniacally</item>
+<item>MANUFACTURE;manufacturer;manufacturing;manufactured</item>
+<item>MORTAL;mortality;immortal;immortality;immortalize</item>
+<item>marriage;remarry;married;unmarried</item>
+<item>MASS;massive;massively;amass</item>
+<item>MOVE;movement;immovable;moving</item>
+<item>MURDER;murderer;murderous</item>
+<item>MEAN;meaning;meaningless;meaningful;meaningfully</item>
+<item>MEMORY;memorize;memorization;memorable;memorably</item>
+<item>MISERY;miserable</item>
+<item>MISTAKE;mistaken;mistakenly</item>
+<item>MOBILE;mobilize;mobility;immobile;immobilize</item>
+<item>MODERN;modernize;modernity</item>
+<item>MOMENT;momentary;momentarily;momentous</item>
+<item>MONSTER;monstrous</item>
+<item>NAME;nameless;namely;namesake;misname;unnamed;rename</item>
+<item>NOTICE;unnoticed;unnoticeable;noticeable;noticeably</item>
+<item>nation;national;multinational;unnoticeably;nationalism;nationalist;nationality;nationalization;international</item>
+<item>NOURISH;nourishing;nourishment</item>
+<item>NAVIGATE;navigation;navigational;navigator;navigable;navigability</item>
+<item>NECESSARY;necessarily;unnecessary;unnecessarily;necessity</item>
+<item>NEGLECT;negligence;negligent;negligently;negligible;negligibly</item>
+<item>NEW;renew;renewal;renewable;anew</item>
+<item>NORMAL;normally;normality;normalcy;normalize;abnormal;abnormally;abnormality;normalization</item>
+<item>NOTE;notable;notably;notebook;notify;notification;denote;notation</item>
+<item>OBEY;disobey;obedient;obedience;disobedient;disobedience</item>
+<item>OBJECT;objection;objectionable;objectionably;OBJECTIVE;objectify;objectively;objectivity;objectiveness</item>
+<item>OBLIGE;obligation;obligatory</item>
+<item>OBSERVE;observer;observant;observantly</item>
+<item>OCCUPY;preoccupy;preoccupied;preoccupation;unoccupied;occupant;occupier;occupation;occupational</item>
+<item>OFFENSE;offensive;offensively;offend;offender</item>
+<item>ORIGIN;originate;original;originally;unoriginal;unoriginally;originator</item>
+<item>ORGANIZE;organized;organizer</item>
+<item>disorganize;disorganization;unorganized;reorganize;reorganization</item>
+<item>PAIN;painful;painfully;painless;painlessly</item>
+<item>PLEASE;pleasure;pleasant;pleasantly;displeasure</item>
+<item>PRESUME;presumption;presumably;presumptuous</item>
+<item>PARENT;parental;parenthood;parentage</item>
+<item>POISON;poisonous</item>
+<item>POLITICS;political;politically;politician;politicize</item>
+<item>PREVAIL;prevalent</item>
+<item>pay;repay;unpaid;payable;payment;payer;prepaid;payback;payoff</item>
+<item>POOR;poorly;poverty;impoverish;impoverished</item>
+<item>PREVENT;prevention;preventive</item>
+<item>PRISON;prisoner;imprison;imprisonment</item>
+<item>penetrate;penetrable;penetrative;penetration;impenetrable</item>
+<item>PRODUCE;unproductive;unproductively;reproduce;reproduction;reproductive</item>
+<item>POPULAR;popularity;popularize;unpopular;product;productive;productively;productivity;production</item>
+<item>perceive;perception;imperceptible;imperceptibly</item>
+<item>POSSESS;possession;possessive</item>
+<item>POWER;powerful;powerless;empower;powerhouse;overpower;manpower</item>
+<item>peril;perilous;imperil</item>
+<item>PROFESSION;professional;professionally;professionalism;unprofessional;unprofessionally</item>
+<item>person;personal;personally;personification;personality;personify;impersonate;impersonator</item>
+<item>PERMIT;permission;permissive</item>
+<item>PRACTICE;practical;practically;impractical;practitioner;practicable</item>
+<item>PRECISE;precisely;imprecisely;precision;imprecise;imprecision</item>
+<item>PROFIT;profitable;unprofitable;nonprofit;profiteering</item>
+<item>PROOF;prove;disprove;proofread;proofreader</item>
+<item>PERSIST;persistent;persistence</item>
+<item>PROPOSE;proposal;proposition</item>
+<item>picturesque</item>
+<item>PREDICT;prediction;predictable;unpredictable;predictability;unpredictability</item>
+<item>play;player;replay;playful;playfully;playfulness;outplay;downplay;interplay</item>
+<item>PREFER;preference;preferable;preferential;preferably</item>
+<item>PREPARE;preparation;unprepared</item>
+<item>PROSPECT;prospectus;prospective;prospector</item>
+<item>PURE;purify;purification</item>
+<item>PURPOSE;purposeful;purposefully</item>
+<item>PURSUE;pursuit;pursuer</item>
+<item>PUZZLE;puzzlement;puzzled;puzzling</item>
+<item>RAIL;derail;derailment;railing;railroad;railway</item>
+<item>REGARD;disregard;regardless;regardlessly</item>
+<item>REGRET;regrettable;regrettably;regretful</item>
+<item>rarity;rarely</item>
+<item>RELATE;relation;relative;relatively</item>
+<item>RELEVANT;relevance;relevantly;irrelevant</item>
+<item>RELY;reliable;unreliable;reliance;reliability;reliably</item>
+<item>READ;reader;reread;misread</item>
+<item>READY;readily;readiness;unready</item>
+<item>REAL;really;unreal;realistic;realistically;reality;realism;surreal;realize</item>
+<item>REMOVE;removal;removable;irremovable;irremovably</item>
+<item>RESEMBLE;resemblance</item>
+<item>RESIDE;resident;residential;residence</item>
+<item>RESPOND;respondent;responsive;unresponsive;responsiveness</item>
+<item>receive;receiver;reception;recipient;receiving</item>
+<item>REST;restless</item>
+<item>recognition;recognizable;recognizably;unrecognizable;restlessly;restive</item>
+<item>RICH;richly;enrich;riches;richness</item>
+<item>RED;redness;reddish</item>
+<item>RIVAL;rivalry;unrivalled</item>
+<item>REFER;reference;referee;referential</item>
+<item>ROB;robber;robbery</item>
+<item>REFUSE;refusal</item>
+<item>RUN;runaway;runway;forerunner;runner-uprunner</item>
+<item>SAFE;safety;safely;unsafe;unsafely</item>
+<item>sight;sightsee;sightseeing;insight</item>
+<item>satisfaction;dissatisfaction;satisfying;satisfyingly</item>
+<item>STAND;standoff;standoffish;standpoint;outstanding</item>
+<item>secure;securely;security;insecure;insecurity</item>
+<item>SILENCE;standing;silent;silently;silencer</item>
+<item>STANDARD;standardly;substandard;nonstandard;standardize;standardization</item>
+<item>SELF;selfless;selflessly;selflessness;selfish;selfishly;selfishness</item>
+<item>SINCERE;sincerely;insincerely;insincere</item>
+<item>STORE;storage</item>
+<item>STRAIGHT;straighten</item>
+<item>SENSE;nonsense;nonsensical;senseless;senselessly;sensual;sensuous;sensible;sensitive</item>
+<item>SKILL;skillful;skillfully;skilled</item>
+<item>SLEEP;sleeper;sleepy;sleepless;sleeplessness;straightforward</item>
+<item>STRICT;strictly;strictness</item>
+<item>STRONG;strength;strengthen;strengthening;stronghold</item>
+<item>SUBSTANCE;substantial;substantially;unsubstantial;insubstantial;insubstantially</item>
+<item>sex;bisexual;bisexuality;homosexual;homosexuality;metrosexual;sexism;sexist;sexual</item>
+<item>sleep;sleepyhead;sleepwalk;sleepwalker;sleepover;oversleep</item>
+<item>SOBER;sobriety</item>
+<item>SOCIAL;anti-social;unsocial;socialize;socially;society;sociology;sociologist;sociable</item>
+<item>SUIT;suitable;suitability;unsuitable;suitably;unsuitably</item>
+<item>short;shorten;shortage;shortly;shortcoming;shorthand</item>
+<item>sick;sickness;sickly;sickening</item>
+<item>SPACE;spacious;spaciously;spatial</item>
+<item>SUPPOSE;supposedly;supposing</item>
+<item>shortsighted;nearsighted;farsighted</item>
+<item>SPEECH;speechless</item>
+<item>STABLE;unstable</item>
+<item>SURE;surely;assure;assurance;reassurance;reassuring</item>
+<item>SURMOUNT;surmountable;insurmountable</item>
+<item>SURPRISE;surprising;surprisingly;unsurprising;unsurprisingly</item>
+<item>SURVIVE;survival;surviving;survivour</item>
+<item>SUSPECT;suspicious;suspiciously;unsuspicious</item>
+<item>SUSTAIN;sustainable;unsustainable;sustainability;sustenance</item>
+<item>TAKE;taker;takeoff;takeaway;takeout;overtake</item>
+<item>TEMPT;tempter;temptation;tempting</item>
+<item>TERMINATE;termination;terminable;interminably;terminator;terminal;termination</item>
+<item>THEFT;thief</item>
+<item>THINK;thoughtful;thoughtfully;thoughtfulness;thoughtless;thoughtlessly;thoughtlessness</item>
+<item>TOLERATE;tolerance;intolerance;tolerant;intolerant;tolerable;intolerable</item>
+<item>TOPIC;topical;topicality</item>
+<item>TOUR;tourist;tourism;touristy</item>
+<item>TROUBLE;troublesome</item>
+<item>TRUE;truly;truth;truthful;truthfully;truthfulness;untrue</item>
+<item>TUTOR;tutorial;untutored;tutee;tutelage</item>
+<item>UNDERSTAND;understanding;understandable;understandably;misunderstand;misunderstanding</item>
+<item>USE;misuse;user;usage;useless;usability</item>
+<item>VACATE;vacant;vacancy</item>
+<item>VALID;validity;invalidity;validate;invalid;invalidate;validation;validly</item>
+<item>VALUE;valued;valuable;invaluable;valuables;devalue;overvalue;revalue</item>
+<item>VANDAL;vandalize;vandalism</item>
+<item>VARY;varied;invariable;invariably;variability;variable;variably;variant;variation</item>
+<item>VISION;visual;visualize;visualization;visionary;envision</item>
+<item>VITAL;vitally;vitality</item>
+<item>VOLUNTARY;volunteer;voluntarily;involuntarily</item>
+<item>WASTE;wasteland;wasteful;wastefully;wastefulness;wasteland;waster</item>
+<item>WITH;without;within</item>
+<item>WITHDRAW;withdrawal;withdrawn</item>
+<item>WATER;watermark;waterfall;watershed;waterline;watery</item>
+<item>WEAK;weakly;weaken;weakness</item>
+<item>WEALTH;wealthy</item>
+<item>WED;wedding;newlywed</item>
+<item>WEEK;weekly;biweekly;midweek;weeklong;weekend;weekday</item>
+<item>WEIGH;weight;weights;weighty;weightless;weightlessness;overweight;underweight;outweigh</item>
+<item>WEIRD;weirdly;weirdo;weirdness</item>
+<item>WIDE;widely;widen;width;widespread;worldwide</item>
+<item>WISE;unwise;wisdom</item>
+<item>WIT;witty;quick-witted;half-wit</item>
+<item>ZEAL;zealot;zealous;zealously</item>
+    </string-array>
+
+    
+    <string-array name="multiple">
+        <item>My hand was ________ so bad that the water was spiling out of the cup;moving;shaking;jumping;rattling;2</item>
+        <item>Walking down the ________ on a plane is fun when there\'s turbulence;corridor;lane;aisle;path;3</item>
+        <item>Being good ________ people is an acquired skill;at;for;with;by;3</item>
+	<item>A brave ________ has turned fundraiser to liven up a children\'s hospital ward;youth;juvenile;young;youngster;4</item>
+        <item>The mother\'s first indication of trouble came when she met the plane at the airport in Budapest and Eva did not ________;disembark;take off;leave;board;1</item>
+        <item>Earth is the only ________ we know of in the universe that can support human life.;situation;place;position;site;2</item>
+        <item>The Earth\'s ________ resources are there for us to use.;real;natural;genuine;human;2 </item>
+        <item>Almost half of Facebook\'s 30 million British users can\'t ________ up with the frequent changes to its privacy and security settings;hold;keep;mantain;stay;2</item>
+         	<item>She forced him to write the phrase "I must not ________ lies" repeatedly;say;tell;speak;announce;2</item>
+    	  	<item>When my mother was younger, she never ________ from anyone ;lent;paid;owed;borrowed;4</item>
+    	  	<item>She always paid her ________;bills;fees;prices;limits;1</item>
+    	  	<item>Some of my friends change their mobile every few months ________ expense;although;despite;however;but;2</item>
+    	    <item>I ordered some jeans once but they were very ________;deceptive;disappointed;deceived;disappointing;4</item>
+    	  	<item>When I was 19, I ________ out of my university course and ended up getting a job in a local travel agent\'s.;dropped;made;listened;burst;1</item>
+    	  	<item>I\'d seen the ________ for the job in the local paper.;publicity;news;advertisement;advice;2</item>
+    	  	<item>It said they wanted someone with a nice ________;mood;character;humour;personality;4</item>
+    	  	<item>It said they wanted someone with a friendly ________;manner;custom;behaviour;habit;1</item>
+			<item>I thought the job might be an ________ to send people to interesting places and to see some of the world myself.;occasion;opportunity;possibility;chance;2</item>
+			<item>I arrived at work on the first day with a positive ________ ready to work and learn about new places.;view;attitude;opinion;aspect;2</item>
+			<item>I spent that morning and every morning for the first three months filling ________ forms and making cofee for the rest of the staff.;in;up;down;through;1</item>
+			<item>The ________ customer took ages to make their mind up;popular;ordinary;average;common;2</item>
+		  <item>It was amazing the number of customers who would spend ages finding the perfect destination only to have a change ________ heart at the last moment.;in;of;to;with;2</item> 
+			<item>If we did organize the trip of a lifetime for someone, we rarely got thanks ________ all our efforts.;of;with;by;for;4</item>
+		  <item>I now work in publishing ________ a living, so these days I\'m a customer in travel agencies.;from;for;to;with;2</item>
+		  <item>One thing I always keep ________ mind is the need to say thank you.;to;under;in;of;3</item>
+<item>People associate life in the city with crime and noise and they ________ the impression that life in the country can\'t be safer and quieter.;show;have;make;take;2</item>
+<item>I have a friend who lives ________ to a farm;by;between;next;beside;3</item>
+<item>He ________ that it\'s noisier living there than it over was in London.;wonders;says;tells;asks;2</item>
+<item>The birds and animals start ________ a noise first thing in the morning, quickly followed by the farm machinery.;doing;shouting;giving;making;4</item>
+<item>My friend\'s car has been ________ four times in four years.;mugged;stolen;robbed;burgled;2</item>
+<item>People who think the country is the safest place to be ________ be right;can;won\'t;can\'t;will;3</item>
+<item>________ I spend time in the country, I\'m surprised by how busy people are.;Whoever;However;Whenever;Whatever;3</item>
+<item>They never seem to speak to ________ for more than a minute or two.;each;each other;themselves;their;2</item>
+<item>On my ________ back from work, I often come across three or four neighbours.;way;route;street;direction;1</item> 
+<item>It\'s that connection with other people that I would ________ most if I lived in the country.;avoid;lose;forget;miss;4</item>
+<item>I ________ up football after I broke my leg, because I didn\'t enjoy it.;gave;took;kept;turned;1</item>
+<item>I couldn\'t ________ up with the work my teacher gave me - it was too difficult.;back;end;bring;keep;4</item>
+<item>Tell your boss you want more money.  I\'ll ________ you up.;bring;back;look;put;2</item>
+<item>She\'s sensitive about her weight, so only talk about it if she ________ it up.;makes;gets;brings;comes;3</item>
+<item>I\'m ________ sleepy.  I\'m going to bed.;incredibly;absolutely;totally;utterly;1</item>
+<item>It was ________ impossible to decide what to do.;extremely;absolutely;incredibly;rather;2</item>
+<item>I bought some ________ cheap shoes at the weekend.;extremely;absolutely;utterly;totally;1</item>
+<item>Sam\'s got a very ________ nose.;enormous;huge;large;massive;3</item>
+<item>I was ________ disappointed by the food in the new restaurant.;utterly;terribly;completely;totally;2</item>
+<item>The painting he bought was absolutely ________;expensive;priceless;valuable;pricey;2</item>
+<item>Your children are ________ noisy!  I wish they\'d be quiet!;utterly;totally;completely;incredibly;4</item>
+<item>The meal Sarah cooked for us was absolutely ________.;delicious;tasty;nice;good;1</item>
+<item>Frank\'s girlfriend was wearing ________ short skirt.;an utterly;an awfully;a quite;a totally;2</item>
+<item>Don\'t ask Simon to help - he\'s ________ useless.;completely;very;extremely;awfully;1</item>
+<item>I was a bit ________ when I went to bed after watching the horror film.;terrified;petrified;scared;horrified;3</item>
+<item>It\'s extremely ________ that we try to solve this problem quickly.;crucial;essential;vital;important;4</item>
+<item>The train ________ from the Pacific coast of Australia to the village of Kuranda,  must be one of the most remarkable in the world;trip;journey;travel;excursion;2</item>
+<item>It begins at the railway ________ in Cairns, the biggest city in that part of the country;station;stop;dock;stand;1</item>
+<item>You have to ________ train if you are coming up from the south.;exchange;shift;transfer;change;4</item>
+<item>As you wait on the ________, you will see the old fashioned silver train come slowly in;stage;floor;ground;platform;4</item>
+<item>You will see the old fashioned silver train come slowly in, consisting of just two ________.;carts;cabins;carriages;vehicles;3</item>
+<item>The views are quiet ________.;important;enormous;excessive;extraordinary;4</item>
+<item>The railway line runs up deep ________ and across spectacular rivers and waterfalls.;gorges;gulfs;ditches;runways;3</item>
+<item>If you get ________ about heights, don\'t look down;creepy;afraid;nervous;terrified;3</item>
+<item>Then you travel through marvellous tropic rainforest, which ________ you just how varied Australia is.;identifies;reminds;memorises;remembers;2</item>
+<item>It\'s a ________ of deserts and beaches, but also of wonderful greenery.;country;field;sight;countryside;1</item>
+<item>He tried to ________ her some advice but she wouldn\'t listen.;give;suggest;recommend;take;1</item>
+<item>Have you ________ out the invitations to the party yet?;posted;sent;dispatched;delivered;2</item>
+<item>I wonder if you could ________ me a favour and carry this box for me.;make;do;give;hold;2</item>
+<item>Could you just stand there quietly without ________ a sound?;creating;doing;causing;making;4		</item>
+<item>She\'s slowly getting ________ after the accident.;better;over;well;improved;1</item>
+<item>Your father looks really different in this picture but I can ________ it\'s him.;know;identify;tell;choose;3	</item>
+<item>The recipe for vegetable soup has a number of different ________ .;parts;components;ingredients;elements;3</item>
+<item>Guess who I ________ into in the supermarket today?;knocked;bumped;hit;banged;2</item>
+<item>Would you like to meet for a coffee after ________?;career;work;job;employment;2</item>
+<item>He\'s decided to take a part-time ________ ;career;work;job;employment;3</item>
+<item>The number of people in full-time ________ has risen this month.;career;work;job;employment;4</item>
+<item>If you commit a crime it will destroy your ________ .;career;work;job;employment;1</item>
+<item>After a great deal of discussion we were all ________ agreement that we should have a party.;for;at;on;in;4</item>
+<item>Thanks for telling me about that website. I\'ll keep it ________ mind.;in;on;to;about;1</item>
+<item>What do you do ________ a living? I\'m a computer programmer.;as;by;for;of;3</item>
+<item>Our train\'s been cancelled. We\'ll have to listen out ________ an announcement.;for;to;about;on;1</item>
+<item>She isn\'t going to university next year. She\'s had a change of ________. .;attitude;thoughts;heart;tune;3</item>
+<item>There are lots of different sweets to choose from. Just ________ your pick.;make;take;do;select;2</item>
+<item>If you want to buy that motorbike you\'ll have to take ________ a loan to do it.;down;on;up;out;4</item>
+<item>The success of the school play was thanks ________ all the hard work involved.;to;for;in;of;1</item>
+<item>Most people are born with the natural ability to ________ stories;say;tell;speak;announce;2</item>
+<item>Some of the world\'s famous crime writers have achieved the ________ success of all.;largest;greatest;highest;prime;2</item>
+<item>Who can ________ the appeal of famous detectives like Sherlock Holmes, Miss Marple or Hercule Poirot?;deny;refuse;insist;hide;1</item>
+<item>If you have an ambition to become the ________ Agatha Christie what should you do?;next;following;subsequent;later;1</item>
+<item>Like any good recipe you have to know the main ________ of a successful novel.;parts;ingredients;pieces;sections;2</item>
+<item>Anybody who has travelled from one time zone to another will be (0)  with the three letters GMT;aware;knowledgeable;familiar;popular;3</item>
+<item>According to an ________ US popular tradition, the groundhog, a small furry animal. comes out of its winter sleep on 2 February;eager;enthusiastic;optimistic;interesting;4</item>
+<item>In the modern world, there is a wealth of leisure activities to choose ________;among;with;from;out;3</item>
+<item>Entertainment industries ________ for your leisure time.;compete;chase;oppose;pursue;1</item>
+<item>In the ________ world, time is something that can be in short supply.;present;new;modern;current;3</item>
+<item>Book publishers haven\'t been slow to realise this and are now selling a product which needn\'t ________ as much of your time;fill out;take up;go through;pass by;2</item>
+<item>Audiobooks are ________ new but people are becoming more aware of them;roughly;relatively;approximately;partly;2</item>
+<item>One of the attractions of audiobooks is that they\'re ________ listening to the radio, only better.;as;both;same;like;4</item>
+<item>Much of their appeal ________ in their flexibility.;lies;bases;stands;belongs;1</item>
+<item>For some people, audiobooks can be a much more enjoyable way of ________ knowledge than reading.;grasping;catching;gaining;raising;3</item>
+<item>He chose to take a year out before ________ to study for his degree;settling down;getting up;taking over;holding back;1</item>
+<item>After doing various jobs to ________ some money, he left home to gain some experience of life in different cultures, visiting America and Asia.;achieve;raise;advance;win;2</item>
+<item>The more adventurous the young person, the greater the challenge they are likely to ________ themselves;put;set;aim;place;2</item>
+<item>Now that his university course has ________ to an end, Nigel is just about to leave on a three-year trip;come;turned;reached;brought;1</item>
+<item>He hopes to ________ on to the people he meets the environmental message that lies behind the whole idea.;leave;keep;pass;give;3</item>
+<item>He plans to make the whole journey using only means of transport which are ________ by natural energy.;pulled;charged;forced;powered;4</item>
+<item>It is my job to provide the ________ material from which a natural history programme is made up.;pure;plain;raw;bare;3</item>
+<item>I often do not have the slightest ________ where I am going or what I will see;idea;thought;purpose;sense;1</item>
+<item>There is also a certain pleasure in ________ some of the film you take on TV;noticing;viewing;looking;regarding;2</item>
+<item>One of the most challenging things is ________ your sense of humour under sometimes difficult circumstances.;guarding;holding;keeping;saving;3</item>
+<item>What I hate most is flying – I really cannot ________ with that.;suffer;stand;tolerate;cope;4</item>
+<item>All things ________ , if it were not for the flying, this job would be just about perfect.;examined;weighed;consulted;considered;4</item>
+<item>The caller asked to be put ________ to the manager.;through;to;over;up;1</item>
+<item>The delay at the airport ________ that we arrived 3 hours later than planned.;resulted;led;caused;meant;4</item>
+<item>He was offered the of headmaster but he turned it ________ .;off;over;away;down;4</item>
+<item>There is no ________ for this disease.;aid;cure;remedy;help;2</item>
+<item>John and his wife live  ________ .;divorced;separate;apart;divided;3</item>
+<item>All the apples have ________ bad.;become;gone;grown;turned;2</item>
+<item>John and Mary have ________ their wedding and decided to go their separate ways.;called off;broken off;put off;written off;1</item>
+<item>if Mary works really hard she should be able to make ________ the time she lost through absence.;out;up;to;back;2</item>
+<item>John travelled 40 miles to get to the hospital to visit his wife, Mary, ________ was thoughtful of him.;that;what;which;who;3</item>
+<item>They shouldn\'t have ________ for the accident. It wasn\'t my fauls;accused me of;accused me with;blamed me for;charged me with;3</item>
+<item>Scientists everywhere are trying to ________ a cure for AIDS.;make;do;produce;discover;4</item>
+<item>Mary decided to ________ a party to celebrate her 18th birthday.;make;organise;give;offer;3</item>
+<item>It is true that a lot of people find ________ art difficult to understand.;present;nowadays;actual;contemporary;4</item>
+<item>"Excuse me, have you got ________ please?";a light;fire;match;the fire;1</item>
+<item>"Excuse me, do you ________ to me bringing my dog into your house?";mind;oppose;object;complain;3</item>
+<item>When our institute got new computers some of us had to ________ a course in programming.;study;make;pass;take;4</item>
+<item>I have a lot of classes on Monday and Tuesday. So you see the ________ part of the week is always busy for me.;early;start;front;initially;1</item>
+
+<item>We shouldn\'t imagine there is ________ on earth who can answer this question.;somebody;some person;no one;anyone;4</item>
+<item>It doesn\'t sound ________ he knows anything about it;as if;so as;that is;like as;1</item>
+<item>________ five minutes of the start start of the game two players had been sent off;About;Within;Around;Before;2</item>
+<item>I can ________ with a lot of things but I cannot stand noisy people;put up;put off;put on;put to;1</item>
+<item>Our company will have to  ________ sales during the coming year;enlarge;widen;broaden;increase;4</item>
+<item>Mr Smith ________ the company in the way he wanted to;ruled;ran;owned;dictated;2</item>
+<item>Most people are not on good relations ________ with thei neighbours;relations;conditions;terms;relationships;3</item>
+<item>The doctors have done all they can. ________ that\'s the impression I have.;Nevertheless;At least;Moreover;Beside;2</item>
+<item>The young girl was the  ________ of her mother;image;picture;portrait;likeness;1</item>
+<item>I don\'t ________ like the idea of having to read a boring novel.;very;so;much;fairly;3</item>
+<item>When his father died, John ________ a greead deal of money.;made into;got into;went into;came into;4</item>
+<item>There are some beautiful ________ glass windows in Saint Paul\'s Cathedral.;stained;designed;marked;drawn;1</item>
+<item>Although his marriage was unhappy Mr Smith remained with his wife for the ________  of his children.;cause;care;sake;good;3</item>
+<item>The students remained ________ behind the door waiting for the members of the Examination board.;unmoved;static;motionless;unmoving;4</item>
+
+<item>Vesuvio is no longer an active volcano ________ volcano;erupting;live;alive;active;4</item>
+<item>The burglar forced the window and ________ the alarm;set off;switched on;turned on;raised;1</item>
+<item> ________ your father gets a new job away from home, will you go with him?;Should;Providing;Supposing;In the case;3</item>
+<item>Any claim for ________ must be received within 7 days.;break-ups;breaks-up;breakages;breaks;3</item>
+<item>John wasn\'t sure if the medicine would make his hair grow again, but he decided to give it a(n) ________;attempt;try;effort;experiment;1</item>
+<item>The ________ watching the tennis match on TV complained that it was so late.;viewers;audience;public;spectators;1</item>
+<item>Couldn\'t you  ________ at the shops on your way home and get some food for suppers.;step in;drop into;call in;pass by;3</item>
+<item>The council demolished the ________ and built modern houses on the same site.;flats;blocks;slums;suburbs;3</item>
+<item>John spent all day long starring at a(n) ________  sheet of paper.;clear;white;empty;blank;4</item>
+<item>During his time as chairman of this company he has found Mr Smith\'s advice absolutely ________ .;valuable;precious;worth;invaluable;4</item>
+<item>A small problem has ________ in connection with renewal of the vis;risen;raised;risen up;arisen;4</item>
+<item>The mechanic carefully ________ the car ouf of the garage.;backed;led;turned;directed;1</item>
+<item>The alarm ________ and the police realised that there was an intruder in the empty house;set off;rang off;went off;switched off;3</item>
+<item>The manufacturers advertise a new ________ of washing powder;mark;make;brand;box;3</item>
+<item>I paid a lot of money, but got very little for it. So from my point of view it wasn\'t a good________ ;exchange;deal;rate;value;2</item>
+<item>I bought this tie because the colours ________ the colours of the shirt;suit;fit;match;agree;2</item>
+<item>In today\'s newspaper it ________ that oil has been discovered near Birmingham;says;writes;remarks;notices;1</item>
+<item>The accident was terrible beacause there was no doctor ________ to help;in hand;within hand;on hand;by hand;3</item>
+<item>I\'m making you responsible for this project.Please see ________ it that it is finished on time;to;into;for;at;1</item>
+
+<item>He wanted to help his mother, so he ________ the table;lay;laid;lain;lied;2</item>
+<item>My TV set is out of order, which is a ________ ;trouble;nuisance;worry;harm;2</item>
+<item>The president will be making a ________ tonight about the new rate of income tax;declaration;statement;talk;publication;2</item>
+<item>In his ________ he was a famous football player;day;ages;year;years;1</item>
+<item>The judge ________ him 100 pounds for parking his car on a pavement;charged;punished;fined;ordered;3</item>
+<item>Our neighbours ________ the grass in their garden cut once a month;arrange;fix;do;cut;4</item>
+<item>My younger brother is really ________ and so he loves going out but I\'m much quiter and prefer to stay at home;noisy;enjoyable;lively;funny;3</item>
+<item> ________ little we may like it, old age comes to all of us.;Despite;In spite of;As;However;4</item>
+<item>They didn\'t plan to stay in the same hotel as the Jonses, it was just a(n) ________ ;coincidence;accident;chance;case;1</item>
+<item>I don\'t have a job, I\'m ________ ;workless;lonely;unused;unemployed;4</item>
+<item>The next ________ of Dynasty will be shown next Tuesday;part;programme;serial;episode;4</item>
+<item>I have no brothers or sisters, I\'m ________ child;single;unique;one;an only;4</item>
+<item>The meeting will begin at 6 p.m. ________ ;on time;exact;sharp;accurate;3</item>
+<item>The TV announcer apologised for the breakdown and said that the normal service would be ________ as soon as possible;repeated;resumed;recovered;returned;2</item>
+<item>Please ________ your hand if you want to ask the teacher a question;rise;lift;raise;pull;3</item>
+<item>It wouldn\'t do any ________ to get up up a bit earlier ;hurt;injury;damage;harm;4</item>
+<item>When John telephoned me, I couldn\'t hear what he was  ________  ;saying;speaking;talking;telling;1</item>
+<item>I never wear brown because it doesn\'t ________ me ;match;suit;fit;agree;2</item>
+<item>The pop group are going to make ________ recording next week;a live;a life;an alive;a living;1</item>
+<item>In the distance they heard the church clock ________ at midnight;ring;strike;beat;hit;2</item>
+<item>I\'ve decided to make a ________ across Europe this summer by car;travel;voyage;journey;hit;3</item>
+<item>When I inherited my grandfather\'s flat I ________ it for only 200 pounds a month;let;rented;lent;hired;1</item>
+<item>The ________ between Poland and the rich countries is increasing rapidly;distance;space;gap;interval;3</item>
+<item>The boss ________ hadn\'t arrived at 10 o\'clock;still;yet;already;even;1</item>
+<item>The telephone operator said he would put the caller ________ when the line is free;over;through;forward;up;2</item>
+<item>These twins are so alike that I can neven ________ the difference between them;find;make;tell;say;3</item>
+<item>It\'s ________ whether he\'ll be able to come s his wife is ill;improbable;doubtful;impossible;likely;2</item>
+<item>It\'s always better to make an ________ guess than to leave it blank;attempt;chance;guess;try;3</item>
+<item>I\'m afraid I really couldn\'t weat any more. I\'m ________ ;filled up;eaten up;full up;fed up;3</item>
+<item>Which ________ of cigarettes do you usually smoke?;make;sort;mark;brand;4</item>
+<item>We couldn\'t eat the meat beacuse it had ________ ;gone off;gone away;gone out;gone over;1</item>
+<item>Is there anything ________ you\'d like me to do for you?;else;yet;more;still;1</item>
+<item>Will you ________ John to bring his camera tomorrow?;remember;recall;remind;say;3</item>
+<item>He was ________ with robbery;arrested;imprisoned;accused;charged;4</item>
+<item>When my father died, I had no ________ but to leave school and get a job;choice;chance;hope;possibility;1</item>
+
+
+</string-array>
+
+    
+
+<string-array name="formation">
+        <item>He is a former swimming ________;instruct;instructor</item>
+        <item>It is ________ to swim so far;possible;impossible</item>
+        <item>Many ________ wanted to win the first prize;compete;competitors</item>
+	<item>The ship ________ into the depths of the ocean;appear;disappeared</item>
+	<item>She can go deeper than male ________;dive;divers</item>
+        <item>It is not ________ to pass out after a shock;common;uncommon</item>
+        <item>You can not ________ her from attempting the record;courage;discourage</item>
+        <item>They ________ my ability but I proved them wrong;judge;misjudged</item>
+        <item>Fritz Lang is my favourite film ________;direct;director</item>
+        <item>We spent a fortune for this device but it is ________;use;useless</item>
+        <item>I am going to bed, I am so ________;sleep;sleepy</item>
+        <item>She is so ________. I spent a fortune for her and she leaves me like that.;gratitude;ungrateful</item>
+	<item>I managed the situation ________ and the boss congratulated on me;skill;skillfully</item>
+	<item>His first attempt was ________;success;unsuccessful</item>
+	<item>Smoking has ________ effects on the long run;harm;harmful</item>
+	<item>She is afraid that the operation will be ________;pain;painful</item>
+	<item>Her ________ is her best quality;cheer;cheerfulness</item>
+	<item>I never use this device. It is so ________;practice;unpractical</item>
+	<item>Once I start I go on ________ untill I finish;end;endlessly</item>
+	<item>He has become ________ important in the company;increase;increasingly</item>
+	<item>________, this film was an extraordinary success;interest;Interestingly</item>
+	<item>To achieve success, ________ is an important factor;motivate;motivation</item>
+	<item>She worked ________ to meet the deadline;tire;tirelessly</item>
+	<item>It is ________ what we can do nowadays with computers;facinate;fascinating</item>
+	<item>I do not see her as ________ as I did in the past;frequently;frequent</item>
+	<item>I was ________ surprised by his achievements;please;pleasently</item>
+	<item>I do not attach too much ________ to what he says;important;importance</item>
+	<item>He does not take care over his ________ ;appear;appearence</item>
+	<item>He wanted ________ and left home;depend;independence</item>
+	<item>It was an extremely ________ experience;please;unpleasant</item>
+	<item>I have never won a ________ like that;compete;competition</item>
+	<item>The noise is ________ and I cannot sleep;deaf;deafening</item>
+	<item>We were so worried that we suffered a ________ night;sleep;sleepless</item>
+	<item>She was so hard working that we were ________ to keep up with her;able;unable</item>
+	<item>The situation ________ when the crisis started;worse;worsened</item>
+	<item>Travel ________ the mind;broad;broadens</item>
+	<item>These days are warm and ________;sun;sunny</item>
+	<item>People in the bar were chatting ________;noise;noisily</item>
+	<item>This is their ________ uniform;tradition;traditional</item>
+	<item>In the airplane crash there were only 3 ________;survive;survivors</item>
+	<item>She is is really ________.;suspicion;suspicious</item>
+	<item>They ________ him even if he was innocent;prison;imprisoned</item>
+	<item>There are many ________ sites around the world;mystery;mysterious</item>
+<item>She\'s always late! It\'s just so ________;consider;inconsiderate</item>
+<item>You behave in a very ________ way.;response;irresponsible</item> 
+<item>________ enough, I was just thinking about you when you called.;fun;Funnily</item>
+<item>Everywhere she looked, she saw ________ and chaos!;order;disorder</item>
+<item>My grandmother thinks my life\'s ________ because I\'m single.;complete;incomplete </item>
+<item>Congratulations! Here\'s the ________ of your job offer.;confirm;confirmation  </item>
+<item>Stealing is ________ and not very nice!;legal;illegal</item>
+<item>The more I cat, the ________ I get.;fat;fatter</item> 
+<item>There was a ________ so we got an appointment.;cancel;cancellation </item>
+<item>David completely ________ on this point.;agree;disagrees</item>
+<item> Nicky didn\'t mean to do it. It was ________.;accident;accidental</item>
+<item>People are ________ of parents who can\'t control their children;CRITIC;critical</item>
+<item>According to statistics, ________ among teenagers is increasing.;OBEY;disobedience</item>
+<item>It is ________ for children to miss school, but many do play truant.;LEGAL;illegal</item>
+<item>Experts say that the younger the parents, the ________ the danger;BIG;bigger</item>
+<item>Children must be encouraged not to think of school as an ________ part of life.;RELEVANT;irrelevant</item>
+<item>This will create a ________ from positive to negative;TRANSFORM;transformation</item>
+<item>Schools now offer many ________ activities.;ADDITION;additional</item>
+<item>Days of children ________ enjoying education are not over yet;HAPPY;happily</item>
+<item>Some people stop work and look forward to a long ________;RETIRE;retirement</item>
+<item>A ________ in the field of ageing has said that opinions are changing.;SOCIOLOGY;sociologist</item>
+<item>Many older people don\'t want to stop work ________ and take up a life of relaxation ;COMPLETE;completely</item>
+<item>They hope to continue in some sort of paid ________, but to work less intensively.;RELAX;relaxation</item>
+<item>There will also be much more ________ in the work people do.;EMPLOY;employment </item>
+<item>Instead of doing the same job for life, ________ will have several jobs, which is known as \'portfolio working\'.;WORK; workers</item>
+<item>It is ________ to know how all this will affect the world of work;POSSIBLE;impossible</item>
+<item>It\'s clear that there will be more ________  for jobs.;COMPETE;competition</item>
+<item>People will also need to develop their skills and take tip ________ at any time in their life.;TRAIN;training</item>
+<item>I find it difficult to ________ my work.;PRIORITY;prioritise</item>
+<item>I\'m studying medicine. I want to ________ in genetics.;SPECIAL;specialise</item>
+<item>This photograph is too small. Can you ________ it for me? ;LARGE;enlarge</item>
+<item>I didn\'t understand what you just said. Could you ________ it? ;CLEAR;clarify</item>
+<item>My electronic dictionary ________ me to listen to the pronunciation of new words. ;ABLE;enables</item>
+<item>He loves insects. He can ________ over 50 different types of beetle.;IDENTITY;identify</item>
+<item>There are a lot of accidents on this road - the council should ________ it. ;WIDTH;widen</item>
+<item>The time we spent apart only ________ my love for him. ;STRONG;strengthened</item>
+<item>You didn\'t ________ what flavour you wanted, so I got you chocolate. ;SPECIFIC;specify</item>
+<item>His speech was too long. He should have ________ it. ;SHORT;shortened</item>
+<item>He always thinks he\'s right. He never ________ for his mistakes. ;APOLOGY;apologises</item>
+<item>I think the government should ________ alcohol. ;CRIMINAL;criminalise</item>
+<item>Thank you for the flowers. They really ________ up the room. ;BRIGHT;brightened</item>
+<item>The burglar ________ that no one was in the house before he broke in. ;SURE;ensured</item>
+<item>The film "The Ring" ________ me. I couldn\'t sleep for days. ;TERROR;terrified</item>
+<item>The government\'s plans for the hospitals will ________ thousands of lives. ;DANGER;endanger</item>
+<item>Please send a photograph with your CV and form ________ . ;APPLY;application</item>
+<item>You need to make a ________ today. ;DECIDE;decision</item>
+<item>Her ________ of the grammar was very unclear. ;EXPLAIN;explanation</item>
+<item>We had a long ________ about our problems. ;DISCUSS;discussion</item>
+<item>Students must have their parent\'s ________ to come on the trip. ;PERMIT;permission</item>
+<item>He is still in hospital, recovering from his ________ . ;OPERATE;operation</item>
+<item>I entered a bowling ________ . ;COMPETE;competition</item>
+<item>My children never show ________ for anything I do! ;APPRECIATE;appreciation</item>
+<item>I can\'t come up with a ________ to this problem. ;SOLVE;solution</item>
+<item>The ________ of junk food has increased over the last 20 years. ;CONSUME;consumption</item>
+<item>You need a lot of ________ for this job. ;QUALIFY;qualifications</item>
+<item>When I lived abroad, I found the ________ from my family very difficult. ;SEPARATE;separation</item>
+<item>The ________ of the new flats is nearly finished. ;CONSTRUCT;construction</item>
+<item>We don\'t want a ________ of the violence at last year\'s football match. ;REPEAT;repetition</item>
+<item>The police are conducting an ________ into the murder. ;INVESTIGATE;investigation</item>
+<item>I gave the police a ________ of the thief. ;DESCRIBE;description</item>
+<item>It wasn\'t my ________ to offend you. ;INTEND;intention</item>
+<item>We are making ________ for the wedding. ;PREPARE;preparations</item>
+<item>I\'ve just had a very interesting ________ with your sister. ;CONVERSE;conversation</item>
+<item>You can try our product for free, with no ________ to buy it. ;OBLIGE;obligation</item>
+<item>What a ________ lovely present! That was very of you. ;THINK;thoughtful</item>
+<item>He drives really ________ - one day he\'s going to have an accident. ;CARE;carelessly</item>
+<item>He\'s told me ________ times about how good he is at football. ;COUNT;countless</item>
+<item>Because of his bad interview, he was ________ in his job application. ;SUCCEED;unsuccessful</item>
+<item>"I didn\'t eat your chocolate," she said ________ , hiding the empty wrapper. ;TRUE;untruthfully</item>
+<item>It\'s ________. England will never win the World Cup football again. ;HOPE;hopeless</item>
+<item>My best friend is a rich, powerful lawyer. ;POWER;powerful</item>
+<item>You must remember to recharge your phone. Without its batteries, it\'s ________. ;USE;useless</item>
+<item>Cigarettes are ________ to your health. ;HARM;harmful</item>
+<item>The sales assistant was really ________ and rude. ;HELP;unhelpful</item>
+<item>A newborn baby is completely ________. ;HELP;helpless</item>
+<item>"Don\'t worry - this injection will be completely ________. ;PAIN;painless</item>
+<item>Thieves broke into the museum and stole a ________ painting by Van Gogh. ;PRICE;priceless</item>
+<item>She\'s really rich, but her clothes are always very ________ and elegant. ;TASTE;tasteful</item>
+<item>I bought some shares in the company 5 years ago, but unfortunately now they are ________. ;WORTH;worthless</item>
+<item>His speech went on ________. I thought he\'d never stop talking. ;END;endlessly</item>
+<item>The politician was accused of being ________;HONEST;dishonest</item>
+<item>His story was so ________ I thought he was crazy. ;BELIEVE;unbelievable</item>
+<item>She looked at him in ________ when he told her the shocking news. ;BELIEVE;disbelief</item>
+<item>Many people are ________ of the dangers of mobile phones. ;AWARE;unaware</item>
+<item>He\'s invited me to his party. It would be ________ to say no. ;POLITE;impolite</item>
+<item>Too many children nowadays are growing up ________ . ;LITERATE;illiterate</item>
+<item>That\'s not what I said! You\'ve ________ me. ;UNDERSTAND;misunderstood</item>
+<item>My dog is completely ________. I promise he won\'t bite. ;HARM;harmless</item>
+<item>The medicine was ________ - he didn\'t recover. ;EFFECT;ineffective</item>
+<item>His answers were very ________ so he failed the Maths exam. ;ACCURATE;inaccurate</item>
+<item>It\'s ________ that people will ever live on the moon. ;LIKELY;unlikely</item>
+<item>He waited ________ for the train. ;PATIENT;impatiently</item>
+<item>It\'s ________ to smoke in public places nowadays. ;LEGAL;illegal</item>
+<item>I would never teach children. They always ________. ;BEHAVE;misbehave</item>
+<item>The shirt he\'s wearing is completely ________ for a job interview. ;APPROPRIATE;inappropriate</item>
+<item>His speech was ________. I thought he\'d never stop talking. ;END;endless</item>
+<item>The flowers are ________ poisonous - don\'t eat them! ;DIE;deadly</item>
+<item>You have no ________ - you must do it. ;CHOOSE;choice</item>
+<item>Their ________ was a very happy one. ;MARRY;marriage</item>
+<item>You need to do some more ________ of this grammar. ;PRACTISE;practice</item>
+<item>We don\'t have any ________ that he committed the crime. ;PROVE;proof</item>
+<item>She\'s really ________ about her new haircut.;DEFEND;defensive</item>
+<item>The company made a ________ on their new product. ;LOSE;loss</item>
+<item>I stared at him in ________ . ;BELIEVE;disbelief</item>
+<item>Your parents really care about your ________. ;SAVE;safety</item>
+<item>The politician\'s ________ really made me think about the issues. ;SPEAK;speech</item>
+<item>We tried to keep up the ________ that everything was OK. ;PRETEND;pretense</item>
+<item>I need to get ________ a for my parents\' wedding anniverary. ;GIVE;pretense</item>
+<item>I\'m really sorry. You were ________ in your job application. ;SUCCEED;unsuccessful</item>
+<item>He lost his ________ in the accident ;SEE;sight</item>
+<item>He\'s really selfish and ________. ;THINK;thoughtless</item>
+<item>Normally I prefer tall men, but my husband\'s ________ isn\'t a problem. ;SHORT;shortness</item>
+<item>The news report covered the economic crisis in ________ . ;DEEP;depth</item>
+<item>A healthy diet will ________ your life expectancy. ;LONG;lengthen</item>
+<item>If they ________ this road, there would be fewer accidents. ;WIDE;widened</item>
+<item>I think I\'ll ________ this photograph. ;LARGE;enlarge</item>
+<item>The airport has ________ security at passport control. ;TIGHT;tightened</item>
+<item>I do yoga to ________ my back. ;STRONG;strengthen</item>
+<item>There is a water ________ nearly every summer in the south of England. ;SHORT;shortage</item>
+<item>The moment I left work I ________ my tie and started to relax. ;LOOSE;loosened</item>
+<item>When I ________  myself, I found out I\'d lost 10kg! ;WEIGHT;weighed</item>
+<item>The ________ of my computer screen gives me a headache. ;BRIGHT;</item>
+<item>I\'m afraid of ________ so I couldn\'t live on the 10th floor. ;HIGH;heights</item>
+<item>The lights went out and the room was plunged into ________ . ;DARK;darkness</item>
+<item>I\'m afraid of the ________ so I sleep with the lights on. ;DARKEN;darkness</item>
+<item>The government are going ________ to the legal drinking age to 18. ;LOW;lower</item>
+<item>His long illness has ________ him. ;WEAK;weakened</item>
+<item>It shows that he told the ________ . ;TRUE;truth</item>
+<item>He\'s a ________ tall boy. ;FAIR;fairly</item>
+<item>I have no ________ to pay it. ;OBJECT;objection</item>
+<item>Are you in ________ with them? ;AGREE;agreement</item>
+<item>In the not-too-distant past farm animals were able to live ________ lives in what we would now term free-range conditions. ;NATURE;natural</item>
+<item>Are you in ________ with them? ;AGREE;agreement</item>
+<item>The use of factory farming and drug ________ have led to a widespread feeling that animals are being caused a lot of distress;TREAT;treatment</item>item>
+<item>Fish and chip shop is the most ________ form of British take-away;TRADITION;traditional</item>
+<item>If you are after a very ________ holiday where you can get away from it all, why not visit Greece?;PLEASE;pleasant</item>
+<item>There are ________ places to visit, both on the mainland and on theislands.;NUMBER;numerous</item>
+<item>There is a wide ________ of things to see and do.;VARY;variety</item>
+<item>the great leader Kolokotronis defended Greece against the Turks in the Greek War of ________.;DEPEND;independence</item>
+<item>The castle itself is in the centre of the town and if you are feeling ________ you can climb the 857 steps to the top.;ENERGY;energetic</item>
+<item>Even though the climb is tiring, you will not be ________ as the views from the top are breathtaking;APPOINT;disappointed</item>
+<item>Olympia, home of the Olympic Games, is also ________ in the Peloponnese and well-worth a visit.;SITE;situated</item>
+<item>Whether you want to sunbathe on a beautiful sandy beach or go ________ in ancient towns and cities steeped in history, Greece is the place for you.;SEE;sightseeing</item>
+<item>There was little ________ that John knew the answer. ;POSSIBLE;possibility</item>
+ <item>There was little ________ that John knew the answer. ;POSSIBLE;possibility</item>
+<item>The water-fuelled car was his greatest ________ .;ACHIEVE;achievement</item>
+<item>The final ________ took 8 hours to reach.;AGREE;agreement</item>
+<item>The ________ on their faces was worthy of a photograph.;AMAZE;amazement</item>
+<item>The first ________ of problems in the design started in November of this year.;APPEAR;appearance</item>
+<item>Thanks to mobile phones, the emergency services come to people\'s ________ much faster these days.;ASSIST;assistance</item>
+<item>My first ________ for a holiday would be Okinawa.;CHOOSE;choice</item>
+<item>The managing ________ of the pharmaceutical company was sent to prison for bribing medical staff.;DIRECT;director</item>
+<item>________ is now at more than 20% in Spain, which is catastrophic.;EMPLOY;unemployment</item>
+<item>Helping companies to create jobs is the best way to stimulate ________ in an economy.;GROW;growth</item>
+<item>Electric cars have been showing remarkable ________ in recent years.;IMPROVE;improvement</item>
+<item>People need to increase their ________ of nutritiion, especially about the dangers of sugar, red meat and refined flour.;KNOW;knowledge</item>
+<item>For the first time, there is ________ that using baby formula has a negative effect on babies\' health.;PROVE;proof</item>
+<item>The World Health Organisation ________ is for babies to be exclusively breastfed for the first six months.;RECOMMEND;recommendation</item>
+<item>The initial government ________ was to deny everything. In the end, however, the minister was forced to resign.;RESPOND;response</item>
+<item>The ________ of the Toyota Prius has been very encouraging for people who want a better planet.;SUCCEED;success</item>
+<item>The ________ to the energy crisis is not nuclear, because of the enormous hidden costs, the toxic waste and simply because it is not renewable.;SOLVE;solution</item>
+<item>Thanks to all the great improvements, ________ now fill the streets of Valencia.;TOUR;tourists</item>
+<item>There is a huge ________ of rice dishes in Valencia, apart from paella.;VARY;variety</item>
+<item>The ________ state many people experience before exams often means that they get lower marks than they deserve.;ANXIETY;anxious</item>
+<item>Ecuador has many different climates in one country. The ________ area has a tropical climate for example.;COAST;coastal</item>
+<item>These days the expensive restaurants are empty whereas those with good offers are ________ with hungry customers.;CROWD;crowded</item>
+<item>Cycling in a city without a safety helmet is extremely ________ and also pretty stupid.;DANGER;dangerous</item>
+<item>\'In the Night Garden...\' is a TV show babies can understand. It is absolutely ________ .;DELIGHT;delightful</item>
+<item>The politician\'s explanation about the environmental disaster was extremely ________, if not to say a boldfaced lie.;DOUBT;doubtful</item>
+<item>The government\'s ________ policy of cutting spending on research and development resulted in a catastrophe for the country on the world market.;ECONOMY;economic</item>
+<item>She\'s a real fighter, ________ and full of enthusiasm.;ENERGY;energetic</item>
+<item>How can people keep eating processed food when it is so ________ for your health.;HARM;harmful</item>
+<item>To be ________ you need to cut out processed foods, red meat and sugar and do regular exercise. It will also make you feel happy.;HEALTH;healthy</item>
+<item>A green ________ society is perfectly feasible and maybe our only option if our children are to have a happy future.;INDUSTRY;industrial</item>
+<item>The reason why the Spanish government banned the sale of stevia seeds is ________ and highly suspicious.;MYSTERY;mysterious</item>
+<item>Despite many great improvements, the streets of Valencia are still very ________ .;NOISE;noisy</item>
+<item>Morella is a beautiful and ________ place to spend a weekend.;PEACE;peaceful</item>
+<item>Refined sugar does so much damage to human health that you could almost say that it was ________ .;POISON;poisonous</item>
+<item>Using many different sources of renewable energy, both on a national and domestic scale, is the only ________ way to stop using coal, nuclear and petroleum.;PRACTICE;practical</item>
+<item>We need to be looking for ________ solutions rather than just seeking profit.;SCIENCE;scientific</item>
+<item>Just because bullfighting is ________ or cultural does not mean that it is good.;TRADITION;traditional</item>
+<item>The organic society spend a week at the Lancrigg vegetarian hotel ________ .;ANNUAL;annually</item>
+<item>Many human rights activists were ________ disappointed by the election results in Rwanda.;BITTER;bitterly</item>
+<item>It is ________ difficult to explain things to people whose ideas are based on emotions rather than hard facts.;EXTREME;extremely</item>
+<item>You can ________ see famous actors and actresses in Madrid\'s La Latina district.;FREQUENT;frequently</item>
+<item>It is ________ unlikely that Western governments will ever seriously care about the environment without increased social pressure and the emergence of new political parties.;HIGH;highly</item>
+<item>It is becoming ________ obvious that politicians only think in terms of four years ahead, which is proving to be disastrous for the environment.;INCREASE;increasingly</item>
+<item>A lot of people are ________ innocent about soft drinks containing sugar.;INCREDIBLE;incredibly</item>
+<item>You will need to arrive ________ for your flight, otherwise they will close the check-in and you will be stranded.;PUNCTUAL;punctually</item>
+<item>They kept in touch ________ for years.;REGULAR;regularly</item>
+<item>The results were ________ good.;RELATIVE;relatively</item>
+<item>The crime ocurred ________ before 3 a.m.;SHORT;shortly</item>
+<item>Most politicians are morally corrupt and power-crazy but Nelson Mandela was a ________ great statesman.;TRUE;truly</item>
+<item>She is an ________ young woman and far more intelligent than her male colleagues who spend their coffee breaks talking about football and cars.;ATTRACT;attractive</item>
+<item>He is intelligent but so ________ that his work is very difficult to follow and full of inaccuracies.;CARE;careless</item>
+<item>Despite having a very ________ position in the civil service, he was bad-tempered and unhappy.;COMFORT;comfortable</item>
+<item>Although I do not really like ballet, Swan Lake is absolutely ________ .;DELIGHT;delightful</item>
+<item>Nobody is very ________ about Japan agreeing to stop killing whales and dolphins.;HOPE;hopeful</item>
+<item>Valencian firework displays are very ________ .;IMPRESS;impressive</item>
+<item>Sugar has so many terrible effects on the human body that it could almost be considered ________ .;POISON;poisonous</item>
+<item>German cars are famous for being very ________ .;RELY;reliable</item>
+<item>People\'s ignorance about the benefits of exclusive breastfeeding is quite ________ .;REMARK;remarkable</item>
+<item>The economy is already ________ the effects of not investing in new technology.;SUFFER;suffering</item>
+<item>We were ________ to convince her of the dangers of red meat, both to human health and the planet as a whole.;ABLE;unable</item>
+<item>His arguments were ________ but seemed to be based on emotions. He got angry when I challenged him.;CLEAR;unclear</item>
+<item>________ the investigators were unable to prove that the scientist had been murdered.;FORTUNATE;unfortunately</item>
+<item>Portuguese bullfighter do not kill the bulls, ________ their Spanish counterparts.;LIKE;unlike</item>
+<item>European politicians are ________ to take effective steps to protect the environment now that there is an economic recession.;LIKELY;unlikely</item>
+<item>Herons remain ________ until their prey comes within reach.;MOTION;motionless</item>
+<item>It was very ________ to watch the scenes of fishermen killing dolphins in Taiji in Japan.;PLEASANT;unpleasant</item>
+<item>His vegetable garden is not at all ordered, In fact it looks very ________ in shape.;REGULAR;irregular</item>
+<item>Sponge Bob is quite subversive and ________ for young children.;SUITABLE;unsuitable</item>
+<item>In recent years there has been a very ________ increase in jellyfish populations. In fact, they have started to attack salmon farms.;USUAL;unusual</item>
+ 
+
+</string-array>
+    
+<string-array name="pv">
+<item>ask someone out;invite on a date;Brian asked Judy out to dinner and a movie.</item>
+<item>ask around;ask many people the same question;I asked around but nobody has seen my wallet.</item>
+<item>add up to something;equal;Your purchases add up to $205.32.</item>
+<item>back something up;reverse;You\'ll have to back up your car so that I can get out.</item>
+<item>back someone up;support;My wife backed me up over my decision to quit my job.</item>
+<item>blow up;explode;The racing car blew up after it crashed into the fence.</item>
+<item>blow something up;add air;We have to blow 50 balloons up for the party.</item>
+<item>break down;stop functioning (vehicle, machine);Our car broke down at the side of the highway in the snowstorm.</item>
+<item>break down;get upset;The woman broke down when the police told her that her son had died.</item>
+<item>break something down;divide into smaller parts;Our teacher broke the final project down into three separate parts.</item>
+<item>break in;force entry to a building;Somebody broke in last night and stole our stereo.</item>
+<item>break into something;enter forcibly;The firemen had to break into the room to rescue the children.</item>
+<item>break something in;wear something a few times so that it doesn\'t look/feel new;I need to break these shoes in before we run next week.</item>
+<item>break in;interrupt;The TV station broke in to report the news of the president\'s death.</item>
+<item>break up;end a relationship;My boyfriend and I broke up before I moved to America.</item>
+<item>break up;start laughing (informal);The kids just broke up as soon as the clown started talking.</item>
+<item>break out;escape;The prisoners broke out of jail when the guards weren\'t looking.</item>
+<item>break out in something;develop a skin condition;I broke out in a rash after our camping trip.</item>
+<item>bring someone down;make unhappy;This sad music is bringing me down.</item>
+<item>bring someone up;raise a child;My grandparents brought me up after my parents died.</item>
+<item>bring something up;start talking about a subject;My mother walks out of the room when my father brings up sports.</item>
+<item>bring something up;vomit;He drank so much that he brought his dinner up in the toilet.</item>
+<item>call around;phone many different places/people;We called around but we weren\'t able to find the car part we needed.</item>
+<item>call someone back;return a phone call;I called the company back but the offices were closed for the weekend.</item>
+<item>call something off;cancel;Jason called the wedding off because he wasn\'t in love with his fianc?.</item>
+<item>call on someone;ask for an answer or opinion;The professor called on me for question 1.</item>
+<item>call on someone;visit someone;We called on you last night but you weren\'t home.</item>
+<item>call someone up;phone;Give me your phone number and I will call you up when we are in town.</item>
+<item>calm down;relax after being angry;You are still mad. You need to calm down before you drive the car.</item>
+<item>not care for someone/something;not like (formal);I don\'t care for his behaviour.</item>
+<item>catch up;get to the same point as someone else;You\'ll have to run faster than that if you want to catch up with Marty.</item>
+<item>check in;arrive and register at a hotel or airport;We will get the hotel keys when we check in.</item>
+<item>check out;leave a hotel;You have to check out of the hotel before 11:00 AM.</item>
+<item>check someone/something out;look at carefully, investigate;The company checks out all new employees.</item>
+<item>check out someone/something;look at (informal);Check out the crazy hair on that guy!</item>
+<item>cheer up;become happier;She cheered up when she heard the good news.</item>
+<item>cheer someone up;make happier;I brought you some flowers to cheer you up.</item>
+<item>chip in;help;If everyone chips in we can get the kitchen painted by noon.</item>
+<item>clean something up;tidy, clean;Please clean up your bedroom before you go outside.</item>
+<item>come across something;find unexpectedly;I came across these old photos when I was tidying the closet.</item>
+<item>come apart;separate;The top and bottom come apart if you pull hard enough.</item>
+<item>come down with something;become sick;My nephew came down with chicken pox this weekend.</item>
+<item>come forward;volunteer for a task or to give evidence;The woman came forward with her husband\'s finger prints.</item>
+<item>come from somewhere;originate in;The art of origami comes from Asia.</item>
+<item>count on someone/something;rely on;I am counting on you to make dinner while I am out.</item>
+<item>cross something out;draw a line through;Please cross out your old address and write your new one.</item>
+<item>cut back on something;consume less;My doctor wants me to cut back on sweets and fatty foods.</item>
+<item>cut something down;make something fall to the ground;We had to cut the old tree in our yard down after the storm.</item>
+<item>cut in;interrupt;Your father cut in while I was dancing with your uncle.</item>
+<item>cut in;pull in too closely in front of another vehicle;The bus driver got angry when that car cut in.</item>
+<item>cut in;start operating (of an engine or electrical device);The air conditioner cuts in when the temperature gets to 22°C.</item>
+<item>cut something off;remove with something sharp;The doctors cut off his leg because it was severely injured.</item>
+<item>cut something off;stop providing;The phone company cut off our phone because we didn\'t pay the bill.</item>
+<item>cut someone off;take out of a will;My grandparents cut my father off when he remarried.</item>
+<item>cut something out;remove part of something (usually with scissors and paper);I cut this ad out of the newspaper.</item>
+<item>do someone/something over;beat up, ransack (Br.E., informal);He\'s lucky to be alive. His shop was done over by a street gang.</item>
+<item>do something over;do again (N.Amer.);My teacher wants me to do my essay over because she doesn\'t like my topic.</item>
+<item>do away with something;discard;It\'s time to do away with all of these old tax records.</item>
+<item>do something up;fasten, close;Do your coat up before you go outside. It\'s snowing!</item>
+<item>dress up;wear nice clothing;It\'s a fancy restaurant so we have to dress up.</item>
+<item>drop back;move back in a position/group;Andrea dropped back to third place when she fell off her bike.</item>
+<item>drop in/by/over;come without an appointment;I might drop in/by/over for tea sometime this week.</item>
+<item>drop someone/something off;take someone/something somewhere and leave them/it there;I have to drop my sister off at work before I come over.</item>
+<item>drop out;quit a class, school etc;I dropped out of Science because it was too difficult.</item>
+<item>eat out;eat at a restaurant;I don\'t feel like cooking tonight. Let\'s eat out.</item>
+<item>end up;eventually reach/do/decide;We ended up renting a movie instead of going to the theatre.</item>
+<item>fall apart;break into pieces;My new dress fell apart in the washing machine.</item>
+<item>fall down;fall to the ground;The picture that you hung up last night fell down this morning.</item>
+<item>fall out;separate from an interior;The money must have fallen out of my pocket.</item>
+<item>fall out;(of hair, teeth) become loose and unattached;His hair started to fall out when he was only 35.</item>
+<item>figure something out;understand, find the answer;I need to figure out how to fit the piano and the bookshelf in this room.</item>
+<item>fill something in;to write information in blanks (Br.E.);Please fill in the form with your name, address, and phone number.</item>
+<item>fill something out;to write information in blanks (N.Amer.);The form must be filled out in capital letters.</item>
+<item>fill something up;fill to the top;I always fill the water jug up when it is empty.</item>
+<item>find out;discover;We don\'t know where he lives. How can we find out?</item>
+<item>find something out;discover;We tried to keep the time of the party a secret, but Samantha found it out.</item>
+<item>get something across/over;communicate, make understandable;I tried to get my point across/over to the judge but she wouldn\'t listen.</item>
+<item>get along/on;like each other;I was surprised how well my new girlfriend and my sister got along/on.</item>
+<item>get around;have mobility;My grandfather can get around fine in his new wheelchair.</item>
+<item>get away;go on a vacation;We worked so hard this year that we had to get away for a week.</item>
+<item>get away with something;do without being noticed or punished;Jason always gets away with cheating in his maths tests.</item>
+<item>get back;return;We got back from our vacation last week.</item>
+<item>get something back;receive something you had before;Liz finally got her Science notes back from my room-mate.</item>
+<item>get back at someone;retaliate, take revenge;My sister got back at me for stealing her shoes. She stole my favourite hat.</item>
+<item>get back into something;become interested in something again;I finally got back into my novel and finished it.</item>
+<item>get on something;step onto a vehicle;We\'re going to freeze out here if you don\'t let us get on the bus.</item>
+<item>get over something;recover from an illness, loss, difficulty;I just got over the flu and now my sister has it.</item>
+<item>get over something;overcome a problem;The company will have to close if it can\'t get over the new regulations.</item>
+<item>get round to something;finally find time to do (N.Amer.: get around to something);I don\'t know when I am going to get round to writing the thank you cards.</item>
+<item>get together;meet (usually for social reasons);Let\'s get together for a BBQ this weekend.</item>
+<item>get up;get out of bed;I got up early today to study for my exam.</item>
+<item>get up;stand;You should get up and give the elderly man your seat.</item>
+<item>give someone away;reveal hidden information about someone;His wife gave him away to the police.</item>
+<item>give someone away;take the bride to the altar;My father gave me away at my wedding.</item>
+<item>give something away;ruin a secret;My little sister gave the surprise party away by accident.</item>
+<item>give something away;give something to someone for free;The library was giving away old books on Friday.</item>
+<item>give something back;return a borrowed item;I have to give these skates back to Franz before his hockey game.</item>
+<item>give in;reluctantly stop fighting or arguing;My boyfriend didn\'t want to go to the ballet, but he finally gave in.</item>
+<item>give something out;give to many people (usually at no cost);They were giving out free perfume samples at the department store.</item>
+<item>give something up;quit a habit;I am giving up smoking as of January 1st.</item>
+<item>give up;stop trying;My maths homework was too difficult so I gave up.</item>
+<item>go after someone;follow someone;My brother tried to go after the thief in his car.</item>
+<item>go after something;try to achieve something;I went after my dream and now I am a published writer.</item>
+<item>go against someone;compete, oppose;We are going against the best soccer team in the city tonight.</item>
+<item>go ahead;start, proceed;Please go ahead and eat before the food gets cold.</item>
+<item>go back;return to a place;I have to go back home and get my lunch.</item>
+<item>go out;leave home to go on a social event;We\'re going out for dinner tonight.</item>
+<item>go out with someone;date;Jesse has been going out with Luke since they met last winter.</item>
+<item>go over something;review;Please go over your answers before you submit your test.</item>
+<item>go over;visit someone nearby;I haven\'t seen Tina for a long time. I think I\'ll go over for an hour or two.</item>
+<item>go without something;suffer lack or deprivation;When I was young, we went without winter boots.</item>
+<item>grow apart;stop being friends over time;My best friend and I grew apart after she changed schools.</item>
+<item>grow back;regrow;My roses grew back this summer.</item>
+<item>grow up;become an adult;When Jack grows up he wants to be a fireman.</item>
+<item>grow out of something;get too big for;Elizabeth needs a new pair of shoes because she has grown out of her old ones.</item>
+<item>grow into something;grow big enough to fit;This bike is too big for him now, but he should grow into it by next year.</item>
+<item>hand something down;give something used to someone else;I handed my old comic books down to my little cousin.</item>
+<item>hand something in;submit;I have to hand in my essay by Friday.</item>
+<item>hand something out;to distribute to a group of people;We will hand out the invitations at the door.</item>
+<item>hand something over;give (usually unwillingly);The police asked the man to hand over his wallet and his weapons.</item>
+<item>hang in;stay positive (N.Amer., informal);Hang in there. I\'m sure you\'ll find a job very soon.</item>
+<item>hang on;wait a short time (informal);Hang on while I grab my coat and shoes!</item>
+<item>hang out;spend time relaxing (informal);Instead of going to the party we are just going to hang out at my place.</item>
+<item>hang up;end a phone call;He didn\'t say goodbye before he hung up.</item>
+<item>hold someone/something back;prevent from doing/going;I had to hold my dog back because there was a cat in the park.</item>
+<item>hold something back;hide an emotion;Jamie held back his tears at his grandfather\'s funeral.</item>
+<item>hold on;wait a short time;Please hold on while I transfer you to the Sales Department.</item>
+<item>hold onto someone/something;hold firmly using your hands or arms;Hold onto your hat because it\'s very windy outside.</item>
+<item>hold someone/somethingup;rob;A man in a black mask held the bank up this morning.</item>
+<item>keep on doing something;continue doing;Keep on stirring until the liquid comes to a boil.</item>
+<item>keep something from someone;not tell;We kept our relationship from our parents for two years.</item>
+<item>keep someone/something out;stop from entering;Try to keep the wet dog out of the living room.</item>
+<item>keep something up;continue at the same rate;If you keep those results up you will get into a great college.</item>
+<item>let someone down;fail to support or help, disappoint;I need you to be on time. Don\'t let me down this time.</item>
+<item>let someone in;allow to enter;Can you let the cat in before you go to school?</item>
+<item>look after someone/something;take care of;I have to look after my sick grandmother.</item>
+<item>look down on someone;think less of, consider inferior;Ever since we stole that chocolate bar your dad has looked down on me.</item>
+<item>look for someone/something;try to find;I\'m looking for a red dress for the wedding.</item>
+<item>look forward to something;be excited about the future;I\'m looking forward to the Christmas break.</item>
+<item>look into something;investigate;We are going to look into the price of snowboards today.</item>
+<item>look out;be careful, vigilant, and take notice;Look out! That car\'s going to hit you!</item>
+<item>look out for someone/something;be especially vigilant for;Don\'t forget to look out for snakes on the hiking trail.</item>
+<item>look something over;check, examine;Can you look over my essay for spelling mistakes?</item>
+<item>look something up;search and find information in a reference book or database;We can look her phone number up on the Internet.</item>
+<item>look up to someone;have a lot of respect for;My little sister has always looked up to me.</item>
+<item>make something up;invent, lie about something;Josie made up a story about why we were late.</item>
+<item>make up;forgive each other;We were angry last night, but we made up at breakfast.</item>
+<item>make someone up;apply cosmetics to;My sisters made me up for my graduation party.</item>
+<item>mix something up;confuse two or more things;I mixed up the twins\' names again!</item>
+<item>pass away;die;His uncle passed away last night after a long illness.</item>
+<item>pass out;faint;It was so hot in the church that an elderly lady passed out.</item>
+<item>pass something out;give the same thing to many people;The professor passed the textbooks out before class.</item>
+<item>pass something up;decline (usually something good);I passed up the job because I am afraid of change.</item>
+<item>pay someone back;return owed money;Thanks for buying my ticket. I\'ll pay you back on Friday.</item>
+<item>pay for something;be punished for doing something bad;That bully will pay for being mean to my little brother.</item>
+<item>pick something out;choose;I picked out three sweaters for you to try on.</item>
+<item>point someone/something out;indicate with your finger;I\'ll point my boyfriend out when he runs by.</item>
+<item>put something down;put what you are holding on a surface or floor;You can put the groceries down on the kitchen counter.</item>
+<item>put someone down;insult, make someone feel stupid;The students put the substitute teacher down because his pants were too short.</item>
+<item>put something off;postpone;We are putting off our trip until January because of the hurricane.</item>
+<item>put something out;extinguish;The neighbours put the fire out before the firemen arrived.</item>
+<item>put something together;assemble;I have to put the crib together before the baby arrives.</item>
+<item>put up with someone/something;tolerate;I don\'t think I can put up with three small children in the car.</item>
+<item>put something on;put clothing/accessories on your body;Don\'t forget to put on your new earrings for the party.</item>
+<item>run into someone/something;meet unexpectedly;I ran into an old school-friend at the mall.</item>
+<item>run over someone/something;drive a vehicle over a person or thing;I accidentally ran over your bicycle in the driveway.</item>
+<item>run over/through something;rehearse, review;Let\'s run over/through these lines one more time before the show.</item>
+<item>run away;leave unexpectedly, escape;The child ran away from home and has been missing for three days.</item>
+<item>run out;have none left;We ran out of shampoo so I had to wash my hair with soap.</item>
+<item>send something back;return (usually by mail);My letter got sent back to me because I used the wrong stamp.</item>
+<item>set something up;arrange, organize;Our boss set a meeting up with the president of the company.</item>
+<item>set someone up;trick, trap;The police set up the car thief by using a hidden camera.</item>
+<item>shop around;compare prices;I want to shop around a little before I decide on these boots.</item>
+<item>show off;act extra special for people watching (usually boastfully);He always shows off on his skateboard</item>
+<item>sleep over;stay somewhere for the night (informal);You should sleep over tonight if the weather is too bad to drive home.</item>
+<item>sort something out;organize, resolve a problem;We need to sort the bills out before the first of the month.</item>
+<item>stick to something;continue doing something, limit yourself to one particular thing;You will lose weight if you stick to the diet.</item>
+<item>switch something off;stop the energy flow, turn off;The light\'s too bright. Could you switch it off.</item>
+<item>switch something on;start the energy flow, turn on;We heard the news as soon as we switched on the car radio.</item>
+<item>take after someone;resemble a family member;I take after my mother. We are both impatient.</item>
+<item>take something apart;purposely break into pieces;He took the car brakes apart and found the problem.</item>
+<item>take something back;return an item;I have to take our new TV back because it doesn\'t work.</item>
+<item>take off;start to fly;My plane takes off in five minutes.</item>
+<item>take something off;remove something (usually clothing);Take off your socks and shoes and come in the lake!</item>
+<item>take something out;remove from a place or thing;Can you take the garbage out to the street for me?</item>
+<item>take someone out;pay for someone to go somewhere with you;My grandparents took us out for dinner and a movie.</item>
+<item>tear something up;rip into pieces;I tore up my ex-boyfriend\'s letters and gave them back to him.</item>
+<item>think back;remember (often + to, sometimes + on);When I think back on my youth, I wish I had studied harder.</item>
+<item>think something over;consider;I\'ll have to think this job offer over before I make my final decision.</item>
+<item>throw something away;dispose of;We threw our old furniture away when we won the lottery.</item>
+<item>turn something down;decrease the volume or strength (heat, light etc);Please turn the TV down while the guests are here.</item>
+<item>turn something down;refuse;I turned the job down because I don\'t want to move.</item>
+<item>turn something off;stop the energy flow, switch off;Your mother wants you to turn the TV off and come for dinner.</item>
+<item>turn something on;start the energy, switch on;It\'s too dark in here. Let\'s turn some lights on.</item>
+<item>turn something up;increase the volume or strength (heat, light etc);Can you turn the music up? This is my favourite song.</item>
+<item>turn up;appear suddenly;Our cat turned up after we put posters up all over the neighbourhood.</item>
+<item>try something on;sample clothing;I\'m going to try these jeans on, but I don\'t think they will fit.</item>
+<item>try something out;test;I am going to try this new brand of detergent out.</item>
+<item>use something up;finish the supply;The kids used all of the toothpaste up so we need to buy some more.</item>
+<item>wake up;stop sleeping;We have to wake up early for work on Monday.</item>
+<item>warm someone/something up;increase the temperature;You can warm your feet up in front of the fireplace.</item>
+<item>warm up;prepare body for exercise;I always warm up by doing sit-ups before I go for a run.</item>
+<item>wear off;fade away;Most of my make-up wore off before I got to the party.</item>
+<item>work out;exercise;I work out at the gym three times a week.</item>
+<item>work out;be successful;Our plan worked out fine.</item>
+<item>work something out;make a calculation;We have to work out the total cost before we buy the house.</item>
+
+
+
+</string-array>
+
+<string name="sqlmultiple"> SELECT SENTENCE, CHOICES, KEY FROM fcemultiple</string>
+<string name="sqlpv"> SELECT PV, MEANING, EXAMPLE FROM fcepv</string>
+<string name="sqlwf"> SELECT SENTENCE, WORD, KEY FROM fcewf</string>
+<string name="sqlwflist"> SELECT WORD, LIST FROM fcewflist</string>
+<string name="sqlbookmark"> SELECT POSITION FROM BOOKMARKS where tipo=?</string>
+
+
+<string name="fcetext">
+Update this app when possible as more quiz will be available in upcoming versions.
+\n
+\n    
+The Cambridge First Certificate in English (FCE) is Cambridge ESOL\'s upper-intermediate level exam.\n
+\n
+FCE is at level B2 of the Common European Framework of Reference for Languages. This framework uses six levels to describe language ability: A1, A2, B1, B2, C1, and C2.\n
+\n
+The FCE is internationally recognised for business and study purposes. And the FCE is valid for life, you will never need to take the exam again.\n
+\n
+ \n
+\n
+What is the examination like?\n
+\n
+The FCE examination has five papers.\n
+\n
+    * Paper 1: READING (1 hour) - 30 questions - 3 parts\n
+\n
+      Part 1: A text, followed by 8 multiple-choice questions. Students must choose one answer from four options.\n
+      How many questions? 8.\n
+      How many marks? You get two marks for each correct answer.\n
+      For this part, you should practise how to identify gist, detail, opinion, attitude, tone, main idea, purpose, meaning from context, text organisation, exemplification, comparison, reference.\n
+\n
+      Part 2: A text from which sentences have been removed and placed in jumbled order after the text. Students must identify the correct sentences for each gap.\n
+      How many questions? 7.\n
+      How many marks? You get two marks for each correct answer.\n
+      For this part, you should practise how to identify text strucuture, cohesion and coherence.\n
+\n
+      Part 3: A text or several short texts preceded by multiple-matching questions. Students must match prompts to elements in the text.\n
+      How many questions? 15.\n
+      How many marks? You get one mark for each correct answer.\n
+      For this part, you should practise how to understand the structure, development and global meaning of a text.\n
+\n
+    
+\n
+\n
+    * Paper 2: WRITING (1 hour 20 minutes) - 2 questions - 2 parts\n
+\n
+      Part 1: Some text to read (around 160 words). Using the information in this material, students must write a a letter or email.\n
+      How many questions? 1 (you must write 120-150 words).\n
+      For this part, you should practise writing a letter or email, focus on advertising, apologising, describing, explaining, comparing, expressing opinions, justifying, persuading, recommending and suggesting.\n
+\n
+      Part 2: Students are given four subjects to write about. One option is to write about one of the two set books that students have to read before the exam. Students must write a letter, an article, an essay, a review or a report.\n
+      How many questions? 1 (you must write 120-180 words).\n
+      For this part, you should practise writing the types of texts specified above.\n
+\n
+\n
+    * Paper 3: USE OF ENGLISH (45 minutes) - 42 questions - 4 parts\n
+\n
+      Part 1: A text with 12 gaps. Students must fill in the gaps by choosing one answer from four options.\n
+      How many questions? 12.\n
+      How many marks? You get one mark for each correct answer.\n
+      For this part, you should practise grammar and vocabulary.\n
+\n
+      Part 2: A text with 12 gaps. Students must fill in the gaps by writing a single word (no options given).\n
+      How many questions? 12.\n
+      How many marks? You get one mark for each correct answer.\n
+      For this part, you should practise vocabulary and word-building.\n
+\n
+      Part 3: A text with 10 gaps. Each gap corresponds to a word. The stems of the missing words are given beside the text and must be changed to form the missing word.\n
+      How many questions? 10.\n
+      How many marks? You get one mark for each correct answer.\n
+      For this part, you should practise grammar and vocabulary.\n
+\n
+      Part 4: Eight questions, each with one sentence, a key word and then a response sentence with a gap. Using the key word given, students must complete the response sentence in 2-5 words so that it means the same as the first sentence.\n
+      How many questions? 8.\n
+      How many marks? You get two marks for each correct answer.\n
+      For this part, you should practise grammar and vocabulary.\n
+\n
+     
+\n
+\n
+    * Paper 4: LISTENING (40 minutes) - 30 questions - 4 parts\n
+\n
+      Part 1: Some short, unrelated recordings lasting 30 seconds each. Students must answer one multiple-choice question for each recording. Each question has three options.\n
+      How many questions? 8.\n
+      How many marks? You get one mark for each correct answer.\n
+      For this part, you should practise listening for gist, function, detail, topic, purpose, situation, genre, place, attitude, opinion, relationship.\n
+\n
+      Part 2: A monologue or a recording with interacting speakers lasting 3 minutes. Ten sentences with some gaps. Students must write one to three words to fill each gap.\n
+      How many questions? 10.\n
+      How many marks? You get one mark for each correct answer.\n
+      For this part, you should practise listening for specific information.\n
+\n
+      Part 3: Five short, related monologues lasting 30 seconds each. Students must answer five questions about the recording. Each question has six options.\n
+      How many questions? 5.\n
+      How many marks? You get one mark for each correct answer.\n
+      For this part, you should practise listening for gist, function, detail, topic, purpose, situation, genre, place, attitude, opinion, relationship, agreement.\n
+\n
+      Part 4: A monologue or a recording with interacting speakers lasting 3 minutes. Students must answer seven multiple-choice questions. Each question has three options.\n
+      How many questions? 7.\n
+      How many marks? You get one mark for each correct answer.\n
+      For this part, you should practise listening for agreement, disagreement, stated and non-stated opinion.\n
+\n
+     
+\n
+    * Paper 5: SPEAKING (14 minutes per pair of candidates) - 4 parts\n
+\n
+      Part 1 - Interview: Conversation between the examiner and each candidate. The examiner asks questions to each student in turn, about everyday life, work experience, interests or travel. Students are asked to talk about themselves.\n
+      How long? 3 minutes.\n
+      For this part, you should practise giving information about yourself, general interactional and social language.\n
+\n
+      Part 2 - Long turn: The examiner gives each student a pair of pictures to look at. One student must talk about the pictures (or compare them) for 1 minute. Then the other student is asked a question and must talk for 20 seconds. The same process is repeated with the other candidate.\n
+      How long? 4 minutes.\n
+      For this part, you should practise organising a larger unit of discourse, comparing, describing, giving an opinion.\n
+\n
+      Part 3 - Collaborative task: The examiner gives spoken instructions and written and visual material. Students must have a conversation between them.\n
+      How long? 3 minutes.\n
+      For this part, you should practise exhanging ideas, expressing and justifying an opinion, agreeing / disagreeing, suggesting, speculating, evaluating, reaching a decision through negotiation, listening and understanding other students.\n
+\n
+      Part 4 -Discussion: The examiner asks questions about a topic and leads a discussion with them.\n
+      How long? 4 minutes.\n
+      For this part, you should practise expressing and justifying an opinion, agreeing / disagreeing, listening and understanding other students.\n
+\n
+      Summary of the FCE Exam\n
+      Paper 	Content 	Time 	Marks\n
+      Paper 1: Reading 	3 parts\n
+      30 questions 	1 hour 	20%%\n
+      Paper 2: Writing 	2 parts\n
+      2 questions 	1 hour 20 minutes 	20%%\n
+      Paper 3: Use of English 	4 parts\n
+      42 questions 	45 minutes 	20%%\n
+      Paper 4: Listening 	4 parts\n
+      30 questions 	40 minutes 	20%%\n
+      Paper 5: Speaking 	4 parts 	14 minutes 	20%%\n
+\n
+       \n
+\n
+      How is the exam marked?\n
+\n
+      Each paper carries 20%% of the total marks. \n
+\n
+      There are three Pass grades: A, B and C. A is the top mark. Students that reach these grades are awarded a certificate.\n
+\n
+      There are two Fail grades: D and E. Students that get these grades will not receive a certificate.
+      </string>
+</resources>
